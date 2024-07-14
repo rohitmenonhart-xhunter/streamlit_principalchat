@@ -23,7 +23,7 @@ options = TTSOptions(
 # Firebase setup
 if not firebase_admin._apps:
     try:
-        cred = credentials.Certificate("serviceAccountKey.json")
+        cred = credentials.Certificate("GOOGLE_APPLICATION_CREDENTIALS")
         firebase_admin.initialize_app(cred, {
             'databaseURL': 'https://principal-chat-default-rtdb.firebaseio.com'
         })
