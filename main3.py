@@ -20,16 +20,22 @@ options = TTSOptions(
     speed=1,
 )
 
-# Firebase setup
-if not firebase_admin._apps:
+# Define the function to initialize Firebase
+def initialize_firebase():
     try:
-        cred = credentials.Certificate("GOOGLE_APPLICATION_CREDENTIALS")
+        # Retrieve Firebase service account key from Streamlit secrets
+        service_account_key_json = st.secrets["env"]["GOOGLE_APPLICATION_CREDENTIALS"]
+        cred = credentials.Certificate.from_dict(service_account_key_json)
         firebase_admin.initialize_app(cred, {
-            'databaseURL': 'https://principal-chat-default-rtdb.firebaseio.com'
+            'databaseURL': 'https://principal-chat27-default-rtdb.firebaseio.com'
         })
         st.write("Firebase initialized successfully.")
     except Exception as e:
         st.write(f"Error initializing Firebase: {e}")
+
+# Firebase setup
+if not firebase_admin._apps:
+    initialize_firebase()
 
 # Load knowledge base from text file
 knowledge_base = {}
