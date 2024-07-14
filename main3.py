@@ -7,6 +7,7 @@ import wave
 import io
 import json
 
+
 # Initialize Gradio Client
 client = Client("rohitmenonhart/mistral-super-fast-v2")
 
