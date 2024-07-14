@@ -1,0 +1,5 @@
+firebase_admin==6.5.0
+gradio_client==1.1.0
+PyAudio==0.2.14
+pyht==0.0.28
+streamlit==1.36.0
