@@ -25,7 +25,7 @@ if not firebase_admin._apps:
     try:
         cred = credentials.Certificate("serviceAccountKey.json")
         firebase_admin.initialize_app(cred, {
-            'databaseURL': 'https://athentication-3c73e-default-rtdb.firebaseio.com/'
+            'databaseURL': 'https://principal-chat-default-rtdb.firebaseio.com'
         })
         st.write("Firebase initialized successfully.")
     except Exception as e:
