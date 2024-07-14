@@ -91,6 +91,7 @@ if "authenticated" not in st.session_state:
 def authenticate(key):
     if key in secret_keys:
         st.session_state.authenticated = True
+        st.session_state.authenticated_key = key  # Store authenticated key
     else:
         st.error("Invalid secret key. Please try again.")
 
@@ -153,7 +154,8 @@ else:
             ref = db.reference('/complaints')
             ref.push({
                 'role': role,
-                'issue': issue
+                'issue': issue,
+                'secret_key': st.session_state.authenticated_key  # Include authenticated key
             })
             st.write("Issue submitted to Firebase.")
         except Exception as e:
