@@ -9,7 +9,7 @@ import json
 
 
 # Initialize Gradio Client
-client = Client("rohitmenonhart/mistral-super-fast")
+client = Client("rohitmenonhart/mistral-super-fast-v2")
 
 # Initialize PlayHT API with your credentials
 playht_client = PlayHTClient("o2JcMMMTzvZqOlpI7c2mIEJrLx13", "d697d4a4c4654baca062b5553aac0980")
