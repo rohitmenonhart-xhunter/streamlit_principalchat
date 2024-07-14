@@ -12,14 +12,14 @@ import json
 client = Client("rohitmenonhart/mistral-super-fast-v2")
 
 # Initialize PlayHT API with your credentials
-playht_client = PlayHTClient("o2JcMMMTzvZqOlpI7c2mIEJrLx13", "d697d4a4c4654baca062b5553aac0980")
+playht_client = PlayHTClient("ez4YS811koYwL27q0iNSZ3YynQI3", "eb4f76c9822449afbda94f190445e18e")
 
 # Configure your stream options
 options = TTSOptions(
-    voice="s3://voice-cloning-zero-shot/f8ee5994-a3d0-4a54-a0a1-88f3a7edea21/original/manifest.json",
+    voice="s3://voice-cloning-zero-shot/72e6e88a-bf6a-4177-bacb-a13609a32d61/original/manifest.json",
     sample_rate=44100,
     format=Format.FORMAT_WAV,
-    speed=1,
+    speed=0.9,
 )
 
 # Define the function to initialize Firebase
