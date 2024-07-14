@@ -190,7 +190,7 @@ else:
     user_prompt = st.text_input("You: ")
     if st.button("Send"):
         response, audio_file = get_response(user_prompt)
-        st.write(f"Dr.S Ganesh Vaidyanathan: {response}")
+        st.write(f" {response}")
 
         # Check if there's an issue mentioned
         if detect_issues(user_prompt):
