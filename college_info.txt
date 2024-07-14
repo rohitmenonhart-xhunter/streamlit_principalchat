@@ -1,33 +1,1100 @@
 # Welcome Message
 Welcome to our renowned college in Chennai. We are committed to providing high-quality education and a nurturing environment for our students.
 
-# President
-C.Rohit is the student president of the college.
+# Programmes offered by the Department are:
+B.E. in Electronics and Communication Engineering
+M.E. in Communication Systems
+Ph.D / MS (by Research)
+Vision
+To excel in offering value based quality education in the field of Electronics and Communication Engineering, keeping in pace with the latest developments in technology through exemplary research, to raise the intellectual competence to match global standards and to make significant contributions to the society.
+Mission
+To provide the best pedagogical atmosphere of highest quality through modern infrastructure, latest knowledge and cutting edge skills.
+To fulfill the research interests of faculty and students by promoting and sustaining in house research facilities so as to obtain the reputed publications and patents.
+To educate our students, the ethical and moral values, integrity, leadership and other quality aspects to cater to the growing need for values in the society.
 
 # Facilities
-Our college boasts state-of-the-art facilities, including:
-- Modern classrooms equipped with interactive technology.
-- Well-equipped laboratories for science and engineering disciplines.
-- Extensive library with a vast collection of books and digital resources.
+Library
+"Nothing is pleasanter than exploring a library."
+       - Walter Savage Landor (1775-1864)
 
-# Programs Offered
-We offer a wide range of programs across various disciplines, including:
-- Engineering (Computer Science, Electrical, Mechanical, etc.)
-- Arts and Humanities
-- Sciences (Physics, Chemistry, Biology, etc.)
-- Business Administration
+"Libraries store the energy that fuels the imagination. They open up windows to the world and inspire us to explore and achieve, and contribute to improving our quality of life."
+       - Sidney Sheldon (1917-2007)
 
-# Campus Life
-Our campus is vibrant and diverse, with numerous clubs and activities for students to engage in outside of academics. We encourage holistic development and extracurricular participation.
+"To ask why we need libraries at all, when there is so much information available elsewhere, is about as sensible as asking if roadmaps are necessary now that there are so very many roads."
+       - Jon Bing (1944-2014)
 
-# Admission Process
-Admission to our college follows a rigorous process, including:
-- Entrance exams for specific programs.
-- Merit-based selection criteria.
-- Counselling sessions for students and parents.
+"One best book is equal to hundred good friends but one good friend is equal to a library."
+       - Abdul Kalam (1931-2015)
 
-# Contact Information
-For more information, please visit our website or contact our admissions office:
-- Website: www.college.edu
-- Phone: +91 XXXXXXXXXX
-- Email: info@college.edu
+# Profile
+About Library
+Dr. A.C. Muthiah Central Library is a preeminent library, containing an expansive digital and physical collection that offers a diverse range of services and resources that includes books and journals covering all major fields of Science and Engineering.
+eResources available include:
+1. Instant Services
+2.Multi-Disciplinary Databases
+3.The Study-Zone
+4.Institutional Membership
+5.The Book Bank
+6.Supervision
+
+# Rules and Regulations
+GENERAL RULES
+Library is a silence zone. Mobile phones and watch alarms should be switched to silent mode before entering the Library. Private books and personal belongings are to be deposited at the entrance. Any printed materials, documents and CD-ROMs will not be permitted to be taken inside the library. Members should report the loss of their ID card immediately to the Librarian. While entering the library, Student should show the Identity card to the library staff and make entry in the Barcode Scanner. During Library hours the concerned library staff in charge will take care of entries and to maintain discipline in the library premises. Anyone found disturbing the library atmosphere will be asked to leave the library. All Library transactions should be through circulation counter only.
+Library members should produce their valid College ID card whenever they borrow / return / renew their books at the circulation counter.
+Members are not allowed to use other ID card.
+Students can also renew their books through online renewal system, which is an Internet Service. Books will be renewed only if the title does not attract fine, reservation and also if it is not renewed 99 times already.
+During Study holidays and Exam days Telephone and E-mail renewals are allowed, if the book does not attract fine and reservation.
+Members are encouraged to check / verify their library transaction details periodically in Online | Mobile App (M-OPAC).
+Reference Books, Back Volumes and Journals / Periodicals are not issued.
+Members are responsible for the books issued to their account.
+Under special circumstances Librarian has the right to recall any issued books even before the due date.
+The users should not bring the personal / borrowed books inside the library unless they want to return them.
+
+# Section Timings:
+Central Library	08:00 a.m. to 08:30 p.m.
+Reference	08:00 a.m. to 08:30 p.m.
+Journals / Periodicals	08:00 a.m. to 08:30 p.m.
+Books for Competitive Examinations	08:00 a.m. to 08:30 p.m.
+Stack Room	08:30 a.m. to 04:00 p.m.
+Circulation	08:30 a.m. to 04:00 p.m.
+#BORROWING ENTITLEMENTS
+The following entitlements apply to books in the general loan collections of the Central Library.
+Membership Category	Borrowing Entitlements	Loan Period
+Professor	14 Books	30 Days
+Associate Professor	12 Books	30 Days
+Assistant Professor	10 Books	30 Days
+Instructor	06 Books	30 Days
+Supporting and Administrative Staff	04 Books	30 Days
+Under Graduate Students	07 Books	15 Days
+Post Graduate Students	08 Books	15 Days
+Research Scholars	06 Books	30 Days
+
+# FINE SYSTEM
+Fine will be collected for the late return of books as follows:
+Till first week after the due date Re. 1.00 per day.
+From Second week onwards from the due date Rs. 2.00 per day.
+From Third week onwards from the due date Rs. 5.00 per day.
+Members who do not return the books even after 30 days from the due date will lose the right to borrow books.
+
+# LOSS OR DAMAGE OF BOOK
+Members should check the book thoroughly for missing pages, chapters, pictures, index etc while borrowing the books from the Library. No books in damaged condition will be accepted from the member. Mutilated or spoiled books will have to be replaced by the borrower. Incase loss of books it should be informed immediately to the Librarian and Members should replace the latest edition of the same title and author or if the book is out-of-print then they should pay double the cost of the book along with fine and processing charge of Rs 50/-.
+# RESERVATION OF BOOK
+All books which are out on loan to another member may be reserved in Online | Mobile App (M-OPAC). Availability of reserved books will be notified in the member’s account. Members who do not borrow the books within three days, after availability, their reservation for the books will be cancelled and next priority members will enjoy the reservation.
+#CANCELING RESERVATIONS
+Members may cancel their request for reservation of books by informing at the circulation section. If there is a reservation for the book, members should compulsorily return the book on or before due date to the library.
+# MULTIMEDIA SECTION
+Students are advised to avail the opportunities of using the CD-ROMs and Internet browsing at the library. Only two students are allowed to work together at a time with one system.
+Resources
+The following resources are available in Dr. A.C. Muthiah Central Library
+
+Resources	Numbers
+1) Books	 
+a)       Book Volumes	1,06,103
+b)      Book Titles	24,722
+2) eBooks	2,716
+a)       McGraw-Hill Access Engineering Library (701)	 
+b)      Springer Nature (1,900) - 2010 | 2011| 2012	 
+c)       Pearson eLibrary  (115)	 
+3) Journals	1,512 
+International Journals (eJournals)	1,380
+a)       IEEE Xplore ASPP Package (184)	 
+b)      Springer Nature (807)	 
+c)       ScienceDirect – Engineering + Computer Science (275)	 
+d)      ScienceDirect – Biotechnology (70)	 
+e)      The American Society of Civil Engineers (43)	 
+f)        Nature (1)	 
+Note: International Journals (eJournals) can be accessed through Intranet and Remote Access.
+National Journals (Print)	132
+4) eContents (Others)	 
+a)       NPTEL Resources	 
+b)      SVCE Faculty Videos	112
+5) Back Volumes	10,779
+6) CD-ROMs	259
+7) Book Bank (Under Government of Tamilnadu Scheme)	1,782
+
+# Librarian
+KM
+Dr. K. Manoharan, M.Com., M.C.A., M.L.I.S., M.Phil, Ph.D
+mano@svce.ac.in
+CGS
+Mr. C.G. Sivakumar, B.Sc., M.L.I.S., M.Phil., P.G.D.C.A., MCA
+sivakumar@svce.ac.in
+Library Assistant Grade 2
+TM
+Mr. T. Malarvannan, B.Sc., M.L.I.S., MBA
+malarvannan@svce.ac.in
+Assistant Grade 3
+BVM
+Ms. B.V. Manjula, B.A
+manjula@svce.ac.in
+Junior Assistant
+KK
+Ms. K. Kalaiselvi, B.Com., M.L.I.S
+kalaiselvi@svce.ac.in
+Attender Grade 2
+RA
+Mr. R. Alagiyasingar
+singar@svce.ac.in
+AV
+Mr. A. Venkatesan
+venkatesan@svce.ac.in
+AV
+Mr. G. S. Nagamohan
+nagamohangs@svce.ac.in
+
+# Library Sections
+Circulation Counter
+Journals / Periodicals
+Reference
+Books for Competitive Examinations
+Digital Library
+DreamBig @ SVCE (UPSC Study Circle)
+Book Bank
+Reprography
+
+# Services
+Online Public Access Catalogue: Online | Mobile App (M-OPAC)
+Online Book Renewal: Online | Mobile App (M-OPAC)
+Book Reservation: Online | Mobile App (M-OPAC)
+Reference
+Conference Alert (Staff & Student)
+Inter Library Loan
+Reprography
+Internet Access
+
+# Library News:
+eResources @ SVCE Campus
+Our Central Library has renewed the eResources (Electronic Journals & Electronic Books) and provided access to all the Staff and Students. You may download the complete articles freely from the subscribed package of eJournals and eBooks.
+
+# Working Hours:
+Library is open on all days except listed holidays.
+Section	Timings
+Central Library	08:00 a.m. to 08:30 p.m.
+Reference	08:00 a.m. to 08:30 p.m.
+Journals / Periodicals	08:00 a.m. to 08:30 p.m.
+Books for Competitive Examinations	08:00 a.m. to 08:30 p.m.
+Stack Room	08:30 a.m. to 04:00 p.m.
+Circulation	08:30 a.m. to 04:00 p.m.
+
+# transport:
+Profile:
+The College provides transportation between different districts around and College. 60 buses are operated for Students and Staff of SVCE. Transport is also provided for sports, library, laboratory and late evening classes. Buses are operated on Saturdays and Sundays for special classes, NCC, Sports, etc. On special occasions, buses are utilised for Industrial visits and Social service activities.
+
+# The members of the committee:
+Dr. S. Saravanan Professor - MEC (Transport Convenor) (Mobile: 9994752977)
+Ms. S. R. Malathi Asso. Prof. ECE Dept
+Staff in-charges
+General Secretary, Student's Association
+Student Representatives
+
+# Duties of Transport Convenor:
+Allocating of bus routes for the first year students during admission
+Supervising the daily bus operation and giving instructions to the bus supervisors
+Conducting meeting with all staff in-charges of buses once in three months.
+Inspecting the condition of the buses and reporting for necessary actions
+Issuing ticket to the hostel students (at the time of traveling) through the bus supervisors
+Periodically checking the documents of the buses (College & Contract)
+Maintaining the ISO documents
+Verifying and passing the bill for making payment
+Maintenance of College ambulance
+Alloting busses for Industrial visits/Placement and Training activities/ Co-curricular activities
+Monitoring HODs' Transport.
+Reporting to the superiors as and when required.
+
+# Duties of Staff In-charges
+Check the starting and arrival time of the bus. Any unnecessary delay may be reported.
+Ensure proper seating arrangement in the bus. Few seats may be earmarked for the staff members who travel regularly. Standing if any may be informed.
+Maintain strict discipline while traveling in the bus. Keep vigil over the senior students during the beginning of the year (after the first year classes are started) to prevent ragging in the bus. Any incident of ragging must be brought to the notice of concerned persons.
+Periodically check the students ID card to ensure that the students are traveling in the bus route allotted to them. In case of a need to go by a different route for any genuine reason, the student may be given permission.
+In case of bus breakdown or any other problem during the journey, take appropriate steps immediately and inform to the transport convenor.
+
+# Bus Route Information
+Route No	Bus Route	Starting Point	Via
+1	Tiruvotriyur	Lift Gate (6:15 am)	Lift Gate, Wimco Nagar, Ajax Bus Stand, Vellyanchetty School, Theradi, Raja Kadai, Toll Gate Tondiarpet Appolo Hospital, Kasi Medu, Kal Mandapam - Police Station, Royapuram Signal, Highcourt, Central, Dhinathanthi, Ega Theater, Taylors Road, Aminchikarai Market, Anna Nagar Arch, NSK Nagar, Panchali Amman Koil, Arumbakkam, Koyambedu -Rohini Theater, Nerkundram, Madhura
+2	TVK Park	TVK Park (6:45 am)	TVK Park, Chinthamani, Anna Nagar Rountana, Shanthi Colony, Blue Star, 12th Main Road, Thirumangalam, Koyambedu -Rohini Theater, Nerkundram, Madhuravoil Ration shop, Madhuravoil Market, Madhuravoil Bridge/Signal, Vengatachalapathy Kalyana Mandapam, Vellappan Chavadi, Poonamalle- Byepass
+3	Doveton	Silverstar Hotel (6:25 am)	Silver Star Hotel, Gangadheeswarar koil, Aysha Hospital Bus stop, Abirami theatre, Kellys (Nagappa Motors), Kilpauk Garden, Kellys Kallarai( New Avadi road junction), Chinthamani, Anna Nagar Rountana, Shanthi Colony, Blue Star, 12th Main Road, Thirumangalam, Koyambedu -Rohini Theater, Nerkundram, Madhuravoil Ration shop, Madhuravoil Market, Madhuravoil Bridge/Signal, Vengatachala
+4	Perambur	Perambur Rly Stn (6:15 am)	Perambur Rly Station, Perambur Bus Stand, B.B Road, Jeeva Station, BNC Mill, Otteri, T.B. Hospital, Ayanavaram Signal, ESI, Medavakkam, Murugan Hospital Chinthamani, Anna Nagar Rountana, Shanthi Colony, Blue Star, 12th Main Road, Thirumangalam, Koyambedu -Rohini Theater, Nerkundram, Madhuravoil Ration shop, Madhuravoil Market, Madhuravoil Bridge/Signal, Vengatachalapathy Kalya
+7	Moolakadai	Moolakadai (6:30 am)	Moolakadai, Sembiyam Don Bosco, TVK Nagar Bus Stand, Periyar Nagar, Anna Silai -Don Bosco, Welding Shop, Retteri, Senthil Nagar, Anna Nagar West Depot, Koyambedu -Rohini Theater, Nerkundram, MGR University, Madhuravoil Ration Shop, Madhuravoil Market, Madhuravoil Bridge Signal, Venkatachalapathy Kalyana Mandapam, Vellappan Chavadi, Poonamalle -Byepass
+8	Valluvar Kottam	Anna Statue (6:40 am)	Anna Statue, Nungambakkam Police Station, Sterling Road (sangeetha Hotel), Chetpet Bus stop, Ega Theatre, Taylors Road, Aminchikarai Market, Anna Nagar Arch, NSK Nagar, Panchali Amman Koil, Arumbakkam, Koyambedu -Rohini Theater, Nerkundram, Madhuravoil Ration shop, Madhuravoil Market, Madhuravoil Bridge/Signal, Vengatachalapathy Kalyana Mandapam, Vellappan Chavadi, Poonamalle- B
+9	Lucas TVS	Lucas TVS (6:40 am)	Lucas TVS, Britannia, Ambattur Estate, Telephone Exchange, Dunlop, Canara Bank, Ambattur OT, Thirumullaivoil, Vaishnavi Nagar, Murugappa Polytechnic, Avadi B.S, Avadi Check Post, Ramarathna Theatre, Avadi Market, JB Estate, Murthy Nagar, Govarthanagiri, SA Polytechnic, Paruthipattu Bridge, Kaduvetti, Senneerkuppam -Bridge, Ponnamalle Bye pass
+9A	Redhills	Redhills Bus Stand (6:20 am)	Kavangarai,Puzhal,Surapedu,Kallikuppam,Pudur, Rakki,Thirumullaivoil,Vaishnavi,Avadi,Check post,Ramarathna,Avadi Market, Ricemill, Govarthanagiri,Paruthipettai, Kaduvetti, SA Engg college, Seneerkuppam, Poonamalle,Nazarathpettai,Chembarambakkam
+10	Lucas TVS	Lucas TVS (6:40 am)	Lucas TVS, Britannia, Ambattur Estate, Telephone Exchange, Dunlop, Canara Bank, Ambattur OT, Thirumullaivoil, Vaishnavi Nagar, Murugappa Polytechnic, Avadi B.S, Avadi Check Post, Ramarathna Theatre, Avadi Market, JB Estate, Murthy Nagar, Govarthanagiri, SA Polytechnic, Paruthipattu Bridge, Kaduvetti, Senneerkuppam -Bridge, Ponnamalle Bye pass
+11	Lotus Colony	Lotus Colony (6:45 am)	Lotus Colony, K4 Police Station, Sixth Avenue (EB Office), 18th Main Road corner, West Depot, Thirumangalam, Koyambedu -Rohini Theater, Nerkundram, MGR University, Madhuravoil Ration Shop, Madhuravoil Market, Madhuravoil Bridge Signal, Venkatachalapathy Kalyana Mandapam, Vellappan Chavadi, Poonamalle -Byepass
+12	Thirumangalam signal	Thirumangalam signal (6:35 am)	Thirumanagalam Signal -EB, Vivek’s , Collector Nagar, Golden Flats, Wavin, West Depot (Mugapair), State Bank, Madhuravoil Bridge, Venkatachalapathy Kalyana Mandapam, Vellappan Chavadi, Poonamalle -Byepass
+13	Lucas TVS	Lucas TVS (6:40 am)	Lucas TVS, Korattur, Telephone Exchange, Dunlop, Canara Bank, Ambattur OT, Thirumullaivoil, Vaishnavi Nagar, Murugappa Polytechnic, Avadi B.S, Avadi Check Post, Ramarathna Theatre, Avadi Market, JB Estate, Murthy Nagar, Govarthanagiri, SA Polytechnic, Paruthipattu Bridge, Kaduvetti, Senneerkuppam -Bridge, Ponnamalle Bye pass
+14	Highcourt	Highcourt (6:30 am)	High Court B.S, Central, Dhinathanthi, Ega Theatre, Taylors Road, Aminchikarai Market, Anna Nagar Arch, NSK Nagar, Panchali Amman Koil Arumbakkam, Koyambedu -Rohini Theater, Nerkundram, Madhuravoil Ration shop, Madhuravoil Market, Madhuravoil Bridge/Signal, Vengatachalapathy Kalyana Mandapam, Vellappan Chavadi, Poonamalle- Byepass
+15	Tondairpet	Apollo Hospital (6:20 am)	Appolo Hospital, Thandayarpet-Mani Goondu,Maharani Theatre,Pandiyan Theatre, Mint Bridge (Down), Mint ( Old Bus Stand), Mint-Mani Koondu , Walltax Road-Padmanaba Theatre, Elephantt gate, Central,Dhinathanthi, Ega Theater, Taylors Road, Aminchikarai Market, Anna Nagar Arch, NSK Nagar, Panchali Amman Koil, Arumbakkam,Koyambedu -Rohini Theater, Nerkundram, Madhuravoil Ration shop, Madhuravoil Market, Madhuravoil Bridge/Signal, Vengatachalapathy Kalyana Mandapam, Vellappan Chavadi, Poonamalle-Byepass.
+16	Ayanavaram	Noor Hotel (6:35 am)	Ayanavaram-Noor Hotel, Joint office, ICF, Villivakkam (Kalpana), Nadhamuni Theatre, Sidco Nagar, Lucas, Korattur, Korattur Police station, Telephone Exchange, Madhuravoil Bridge, Venkatachalapathy Kalyana Mandapam, Vellappan Chavadi, Poonamalle -Byepass
+17	MKB Nagar	MKB Nagar (6:15 am)	MKB Nagar, Ambedkar College, Sharma Nagar, Moolakadai, Madhavaram Rountana, Retteri, Senthil Nagar, Anna Nagar West Depot, Koyambedu -Rohini Theater, Nerkundram, MGR University, Madhuravoil Ration Shop, Madhuravoil Market, Madhuravoil Bridge Signal, Venkatachalapathy Kalyana Mandapam, Vellappan Chavadi, Poonamalle -Byepass
+20	Thirumangalam signal	Thirumangalam signal (6:35 am)	Thirumanagalam Signal -EB, Vivek’s , Collector Nagar, Golden Flats, Wavin, DAV School, 7H Bus Stop, Vellammal School, Nolambur Police Station, Nolambur Water Tank, West Depot (Mugapair), State Bank, Madhuravoil Bridge, Venkatachalapathy Kalyana Mandapam, Vellappan Chavadi, Poonamalle -Byepass
+21	Triplicane	Gosha Hospital (6:20 am)	Gosha Hospital, Ratna Cafe, Ameermahal (Jam bazar), Royapettah Police Station, Llyods Raod, Music Academy, Alwarpet Bridge, Park Sheraton Hotel, Nandanam Signal, YMCA, Saidapet Subway, Chinna Malai (Court), Guindy-petrol bunk, Kathipara, Butt Road, Nandambakkam, Ramapuram, S& S, Sakthi Nagar, Porur, Ramachandra Hospital, Iyyappanthangal, Kattupakkam, Gumanchavadi, Sai baba
+22	Mylapore	Yellow Pages (6:35 am)	Yellow Pages (Petrol Bunk), Luz Corner, Mylapore Tank, Mandaveli Post Office, Kalliapa Hospital, Adyar Gate, Kottur Puram, Guindy-Petrol bunk, Kathipara, Butt Road, Nandambakkam, Ramapuram, S& S, Sakthi Nagar, Porur, Ramachandra Hospital, Iyyappanthangal, Kattupakkam, Gumanchavadi, Sai baba Koil, Poonamalle By pass
+23	Santhome	Santhome Church (6:35 am)	Santhome Church, Airtel Office, Mandaveli BS, Kalliapa Hospital, Adyar Gate, Kottur Puram, Guindy-Petrol Bunk, Kathipara, Butt Road, Nandambakkam, Ramapuram, S& S, Sakthi Nagar, Porur, Ramachandra Hospital, Iyyappanthangal, Kattupakkam, Gumanchavadi, Sai baba Koil, Poonamalle By pass
+24	Mylapore	Yellow Pages (6:35 am)	Yellow Pages (Petrol Bunk), Luz Corner, Mylapore Tank, Mandaveli Post Office, Kalliapa Hospital, Adyar Gate, Kottur Puram, Guindy-Petrol bunk, Kathipara, Butt Road Nandambakkam, Ramapuram S & S, Sakthi Nagar, Porur, Ramachandra Hospital, Iyyappanthangal, Kattupakkam, Gumanchavadi, Sai baba Koil, Poonamalle By pass
+25	Chindaripet	Chindaripet Meen Market (6:30 am)	Chindaripet-Meen Market (church), Albert rountana, Ashoka Hotel Circle, Rajarathnam stadium, Mount Road-Church Park school, Govt Eye Hospital, Ethiraj College, Jemini Bridge (Fast Food), DMS, SIET, Nandanam Signal, YMCA, Saidapet Subway, Chinna Malai (Court), Guindy-Petrol bunk, Kathipara, Butt Road, Nandambakkam, Ramapuram, S & S, Sakthi Nagar, Porur, Ramachandra Hospital,
+27	Besant Nagar	Pillaiyar Koil (6:35 am)	Pillayar Koil, Vannanthurai, Indira nagar Police station, Adyar Signal, Sangeetha Hotel, IIT, Guindy-petrol bunk, Kathipara, Butt Road, Nandambakkam, Ramapuram, S& S, Sakthi Nagar, Porur, Ramachandra Hospital, Iyyappanthangal, Kattupakkam, Gumanchavadi, Sai baba Koil, Poonamalle By pass
+28	Tiruvanmiyur	Palavakkam (6:35 am)	Palavakkam, Thiruvanmiyur RTO, Marutheeswarar Koil, Thiruvanmiyur Hot Chips, Jayanthi Theatre, Indra Nagar Tank Sangeetha Hotel, IIT, Guindy-petrol bunk, Kathipara, Butt Road, Nandambakkam, Ramapuram, S& S, Sakthi Nagar, Porur Ramachandra Hospital, Iyyappanthangal, Kattupakkam Gumanchavadi, Sai baba Koil, Poonamalle By pass
+29	Velachery	SRP Tools (6:35 am)	SRP Tools, Tharamani, Baby Nagar, Vijaya Nagar BS, Dhandeeswarar Koil, Gurunanak College, Checkpost, Guindy Bus stop (Towards poonamalle) Kathipara, Butt Road, Nandambakkam, Ramapuram, S& S, Sakthi Nagar, Porur, Ramachandra Hospital, Iyyappanthangal, Kattupakkam, Gumanchavadi, Sai baba Koil, Poonamalle By pass
+30	Chrompet	MEPZ (6:40 am)	MEPZ, MIT Gate, Chrompet, New Saravana Stores, Pallavaram Bus Stop, Aaduthotti, Krishna Nagar, Polichilur Cross Road, Pammal, Anagaputhur, Kundrathur Therady, New bye pass Cross, CIT,
+31	Madipakkam	Madipakkam Kaiveli (6:35 am)	Madipakkam Kaiveli, Ram Nagar, Sadasivam Nagar, Balayya Garden, Ponniamman Koil, Ayyappan Koil, Madipakkam Koot Road, Kumaran Theatre, Vannuvampettai, Oil Mill, Jayalakshmi Theatre, St. Thomas Mount, Cement Road, Kathipara, Butt Road, Nandambakkam, Ramapuram, S& S, Sakthi Nagar, Porur, Ramachandra Hospital, Iyyappanthangal, Kattupakkam, Gumanchavadi, Sai baba Koil, Poonamallee
+34	Meenambakkam	Meenambakkam (6:40 am)	Meenambakkam, Pallavaram Bus Stop, Aaduthotti, Krishna Nagar, Polichilur Cross Road, Pammal, Anagaputhur, Kundrathur Therady, New bye pass Cross, CIT
+34M	Mangadu	Kolanchery Koot Road (7:00 am)	Kolanchery Koot Road, Kovur Koot Road, Muthukuman college, Mangadu Malliga Theatre, Mangadu, Kumananchavadi, Karayanchavady EB, Seneerkuppam, Poonamalle Bye pass, Nazarathpet
+36	Medavakkam Koot Road	Medavakkam Koot Road (6:40 am)	Medavakkam Koot road, Kamarajapuram, Poondy Bazar, Camp Road, East Tambaram, Tambaram Bridge, Krishna nagar, Mudichur, Mudichur Bye pass, Krishkinda, Somangalam
+37	Medavakkam	Kovilambakkam (6:25 am)	Kovilambakkam -KVB, Veeramani Nagar, Kelkattalai, Ganesh Nagar, Madipakkam Koot Road, Padala Vignesh Vinayagar, Krishna Sweets, Oil Mill, Vanuvampettai, Nanganallur, Pazhavanthangal Rly Stn, Santhi Petrol Bunk, Kathipara, Butt Road, Nandambakkam, Ramapuram, S& S, Sakthi Nagar, Porur, Ramachandra Hospital, Iyyappanthangal, Kattupakkam, Gumanchavadi, Sai baba Koil, Poonamallee
+39	Guduvanchery	Maraimalai Nagar (6:35 am)	Maraimalai Nagar, Urapakkam, Vandalur, Perungalathur, Tambaram Bridge, Krishna nagar, Mudichur, Mudichur Bye pass, Krishkinda, Somangalam
+41	Valluvar Kottam	Neel Metals ()	Neel Metals, Periya road, Kodambakkam Bridge, Liberty, Gokulam Chits, Kodambakkam Power House, Ram Theatre, Vadapalani BS, Aavichi, Virugambakkam, Vembuliamman koil, Valasaravakkam, Kesavardhini, Alwarthirunagar, Porur, Ramachandra Hospital, Iyyappanthangal, Kattupakkam, Gumanchavadi, Sai baba Koil, Poonamalle By pass
+42	Ambal Nagar	CIPET (6:40 am)	Ambal Nagar BS, Kasi Theatre, KK Nagar- ESI, KK Nagar Roundtana, PT Rajan Salai, Pondichery Guest House, Aavichi, Virugambakkam, Vembuliamman koil, Valasaravakkam, Kesavardhini, Alwarthirunagar, Porur, Ramachandra Hospital, Iyyappanthangal, Kattupakkam, Gumanchavadi, Sai baba Koil, Poonamalle By pass,
+44	T. Nagar	Nagesh Theatre (6:35 am)	Nagesh Theatre, Rathna stores, Pondy Bazar, Duraisamy Sub-way, Arya Gowda Indian bank, Ayodhya Mandapam, Postal colony Bus stop, Seventh avenue Police booth, Eleventh avenue water tank (Pazha Mudir solai), Ashok Pillar,ESI,KK Nagar Rountana, Saravanabavan,Aavichi, Virugambakkam,Vembuliamman koil, Valasaravakkam,Kesavardhini, Alwarthirunagar,Porur, Ramachandra Hospital,Iyyappanthangal
+45	T. Nagar	Krishnaveni Theatre (6:40 am)	Krishnaveni Theatre, CIT Nagar, Kaveri nagar, Aranganathar Sub way Up, Mettupalayam Lakshmi Hospital, Mettupalayam Bus stop, Srinivasa Theatre, Eleventh avenue water tank, Udayam theatre opposite, 100 feet road petrol bunk,, Lakshmi Surthi Opp, Kamala Theatre, Vadapalani BS, Aavichi, Virugambakkam, Vembuliamman koil, Valasaravakkam, Kesavardhini, Alwarthirunagar, Porur, Ramacha
+46	T. Nagar	Nagesh Theatre (6:35 am)	Nagesh Theatre, Rathna stores, Pondy Bazar, Duraisamy Sub-way, Arya Gowda Indian bank, Ayodhya Mandapam, Postal colony Bus stop, Seventh avenue Police booth, Eleventh avenue water tank (Pazha Mudir solai), Ashok Pillar, ESI, KK Nagar Rountana, Saravanabavn house, Aavichi, Virugambakkam, Vembuliamman koil, Valasaravakkam, Kesavardhini, Alwarthirunagar, Porur, Ramachandra Hospita
+47	T. Nagar	Nagesh Theatre (6:35 am)	Nagesh Theatre, Rathna stores, Pondy Bazar, Duraisamy Sub-way, Arya Gowda Indian bank, Ayodhya Mandapam, Postal colony Bus stop, Seventh avenue Police booth, Eleventh avenue water tank (Pazha Mudir solai), Ashok Pillar, ESI,KK Nagar Rountana, Saravanabavn house,Aavichi, Virugambakkam,Vembuliamman koil, Valasaravakkam,Kesavardhini, Alwarthirunagar, Porur,Ramachandra Hospital, Iyyapp
+48	T. Nagar	Vani Mahal (6:40 am)	Vani Mahal, Bazulla Road, North Usman Road(Opp to Vasantha & Co), Vivek & Co, Mahalingapuram, MLM kalyana Mandapam, Loyala college, Soolai medu Vasanth & Co, NM Road-Metha Nagar (Pazha Mudir solai), Sky walk, Anna Nagar Arch, NSK Nagar, Panchali Amman Koil, Arumbakkam, Koyambedu -Rohini Theater , Nerkundram, Madhuravoil Ration shop, Madhuravoil Market, Madhuravoil Bridge/Signal,
+50	Vadapalini	Ambika Emporium (6:35 am)	Ambika Emporium, MMDA, SAF Games, CMBT, Chinmaya Nagar, Sai Nagar, Natesa Nagar, Elango Nagar, Virugampakkam Market, Virugambakkam, Vembuliamman koil, Valasaravakkam, Kesavardhini, Alwarthirunagar, Porur, Ramachandra Hospital, Iyyappanthangal, Kattupakkam, Kumanchavadi, Sai baba Koil, Poonamalle By pass
+51	T. Nagar	Vani Mahal (6:40 am)	Vani Mahal, Bazulla Road, North Usman Road(Opp to Vasantha & Co), Vivek & Co, Mahalingapuram, MLM kalyana Mandapam, Loyala college, Soolai medu Vasanth & Co, NM Road-Metha Nagar (Pazha Mudir solai), Sky walk, Anna Nagar Arch, NSK Nagar, Panchali Amman Koil Arumbakkam, Koyambedu -Rohini Theater, Nerkundram, Madhuravoil Ration shop, Madhuravoil Market, Madhuravoil Bridge/Signal,
+52	Valluvar Kottam	Anna Statue (6:40 am)	Neel Metals, Periya road, Kodambakkam Bridge, Liberty, Gokulam Chits, Kodambakkam Power House, Ram Theatre, Vadapalani BS, Aavichi, Virugambakkam, Vembuliamman koil, Valasaravakkam, Kesavardhini, Alwarthirunagar, Porur, Ramachandra Hospital, Iyyappanthangal, Kattupakkam, Gumanchavadi, Sai baba Koil, Poonamalle By pass
+55	Porur	Sakthi Nagar (7:00 am)	Sakthi Nagar, Porur, Ramachandra Hospital, Iyyappanthangal, Kattupakkam, Gumanchavadi, Sai baba Koil, Poonamalle By pass, NazarathpetPettai
+55A	Paikadai	Kolanchery Koot Road (6:45 am)	Kolanchery Koot Road, Moondarm Kattalai, Madha Medical College, Kovur Bus Stand, Periyapannaichery, Gerugambakkam, Paikadai, Porur, Ramachandra Hospital, Iyyappanthangal, Kattupakkam, Gumanchavadi, Sai baba Koil, Poonamalle By pass, Nazarathpet
+56	Kancheepuram	Housing Board ()	Collector Office, Mettu Street, Moongil Mandapam (Onward) / Rangasamy Kulam (Return), Kancheepuram Main Bus Stand, Kachabeeswarar Koil,Ekambareaswarar Koil, Vella gate,Meenakshi Hospital, Santhavelur, Sunguvarchatram,Sriperumbudur High School
+57	Kanchipuram	Housing board ()	Collector Office, Mettu Street, Moongil Mandapam (Onward) / Rangasamy Kulam (Return), Kancheepuram Main Bus Stand, Kachabeeswarar Koil,Ekambareaswarar Koil, Vella gate, Meenakshi Hospital, Santhavelur, Sunguvarchatram, Sriperumbudur High School.
+58	Kancheepuram	Periyar Nagar ()	Toll gate, Varadharaja perumal koil, Rangasamy Kulam ,Mettu Street, Moongil Mandapam , Kancheepuram Main Bus Stand, Kachabeeswarar Koil,Ekambareaswarar Koil, Vella gate,Meenakshi Hospital, Santhavelur, Sunguvarchatram,Sriperumbudur High School
+60	Thiruvallur	Pattabiram - Gandhi Nagar ()	Gandhi Nagar BS,Jaya School,DR Chit Funds,Thiruninravur Bridge, Murugan Koil,Tata Steels,Vemppampattu BS,Vemppampattu Rly Station,Kakkalur,Kakkalur Bye pass,Thiruvallur Petrol Bunk,LIC, GRT, Manavala Nagar,Ondikuppam,Aran Voil,Aran Voil Kuppam,Pudhu Chatram,Nemam,Vellavedu, Thirumazhisai
+
+# Bus Schedule
+Bus Schedule for this Week
+Date	Morning Trip	Special Trip at 1.00 PM Route Nos.	Evening Trip at 3.30 PM	Late Trip (04.30 pm)
+09/07/2024 Tuesday	1/14, 17/12, 9, 27/29, 36/30, 44,   56, 60			1/14, 17/12, 9, 27/29, 36/30, 44,   56, 60
+Date	Morning Trip	Special Trip at 1 PM Route Nos.	Evening Trip (03.30 pm)	Late Trip (04.30 pm)
+08/07/2024 Monday	1/14, 17/12, 9, 27/29, , 31, 36, 39/30, 44,  56, 58, 60		14, 9, 27, 36/30, 44, 56, 60	14, 27/44, 36, 56
+Date	Morning Trip	Special Trip Route Nos.	Evening Trip (03.30 pm)	Late Trip (04.30 pm)
+10/07/2024 Wednesday	Non A/C 1, 3/11/12, 4/2/20, 7, 8/48, 9, 9, 9A, 10, 10, 12, 14, 16, 17, 20, 21/55, 25, 29, 30, 30, 31, 36, 36, 36, 37, 39, 41, 42, 44,  44, 45, 50, 56, 56, 57, 58, 60, 60 A/C 15/2, 17/12.24, 27/28, 31		Non A/C 1, 3/11/12, 4/2/20, 7, 8/48, 9, 9, 9A, 10, 12, 16, 17, 20, 21/55, 25, 29, 30, 30, 31, 36, 36, 37, 39, 41, 42/45,  44, 50, 56, 57, 58, 60, 60 A/C 15/2, 17/12.24, 27/28, 31	14, 27, 36, 44, 56
+
+# Hostel:
+History:
+First Gents Hostel Block was inaugurated in the year 1998
+
+
+S.No.	Block Name	              Date of Open
+1	Second Gents Hostel Block	Dec 1999
+2	Third Gents Hostel Block	Aug 2001
+3	Fourth Gents Hostel Block	Aug 2003
+4	Fifth Gents Hostel Block	Dec 2007
+5	Sixth Gents Hostel Block	Jul 2009**
+6	Seventh Gents Hostel Block	Aug 2013
+7	Eighth Gents Hostel Block	Feb 2021
+8	First Ladies Hostel Block	Oct 2002
+9	Second Ladies Hostel Block	July 2008
+10	Third Ladies Hostel Block	Aug 2013
+#Hostel Committee
+S.No.	Name	                        Designation	      Department	                 Email-ID	                        Contact No
+1	Dr. S. Ganesh Vaidyanathan	Principal	        Chief Warden                principal@svce.ac.in                    04427152000 Extn 102,103
+2	Dr. A. Bhaskaran	     Professor & Warden	        APH                          warden@svce.ac.in	                    04427152000 Extn. 900,901, 
+3 Dr. M. Anandan	           Asso. Prof & Dy.Warden	MAR	                       anand@svce.ac.in	                    04427152000 Extn. 
+4	Dr. S. Kumaravel	  Asso. Prof.,& Dy. Warden	EEE	                   kumaravel@svce.ac.in                     04427152000 Extn 994,251 9940695670
+5	Dr. A. Indumathi	  Asso. Prof & Dy. Warden (LH)	INT	                  aindumathi@svce.ac.in	                     04427152000 Extn 351, 994
+6	Ms. Chamundeeswari K	 Asst.Warden (LH) cum Nurse.	MED	                 chamundeeswari@svce.ac.in                    04427152000 Extn 825,99
+#Residential Tutors
+S.No.	Name	               Designation  Department	          Email-ID	                         Block	                           Contact No
+1	Dr. T. Annamalai	Asso. Prof	EEE	   annamalai@svce.ac.in	                        Block-V (GH)	                     04427152000 Extn 991,9944779572, 9865863741
+2	Mr. M. Ananda Boopathy	Asst.Prof	CHE	   maboopathy@svce.ac.in	                 BLOCK II (GH)	                       8056794144
+3	Mr. Kalivannan	        Asst.Prof       CVE	    kalaivannan@svce.ac.in	                BLOCK III (GH)	                          9597874677
+4	Dr. R.J. Venkatesh	Asst.Prof	EEE	     rjv@svce.ac.in	                        BLOCK VII (GH)	                          9283302578
+# Hostel Staff
+S.No.	Name	               Designation             Email-ID 	Responsiblities	                Contact No
+1	Mr. M. Saravanan	Attender	emsaravanan@svce.ac.in	GH Block I and III Maintenance	7708028559
+2	Mr. M. Saravanan	Attender	msaravanan@svce.ac.in	GH Block II and V Maintenance	9965664411
+3	Mr. J. Nagarajan	Attender	nagarajan@svce.ac.in	GH Block IV and VI Maintenance	8667440985
+4	Mr. A. B. Manoharan	Assistant	abmano@svce.ac.in	GH Block VII Incharge	        04427152000 Extn 917 9444978284
+1. Goal:
+To provide a conducive and homely environment for the students to stay, study and imbibe the art of living among their own peers in a harmonious manner.
+2. Description of Hostel Block and Mess Halls
+Each student is provided with essential furniture. All rooms are provided with good ventilation and lighting. Basic amenities like bathrooms and toilets are constructed on each floor of hostel blocks. Hot water is supplied through a geyser or solar heater arrangement. Emergency Generator supplies are also provided in case of power failures. There are two standby diesel generated sets in the main substation, which supplies power during long power interruptions.
+Mess Halls/ Kitchen: Separate mess halls are provided for gents as well as ladies. Each mess hall is provided with a well equipped and a highly mechanized kitchen. The menu, strictly pure vegetarian, is prepared by students and revised once in a semester and food served is predominantly South Indian.
+3. Facilities:
+Common Room: Each hostel block has a common room used for recreation purposes. Daily newspaper and magazine are bought and kept here. Satellite cable television facility is also available. Indoor games such as caroms and chess are provided.
+Wi-Fi Facility: is available for students residing in the hostels, to be used during outside study hours only. Laptops will need to be registered with Warden before availing WiFi facility.
+Sports & Gymnasium: Residents of the hostel are encouraged to take part in sports as excellent outdoor and indoor game facilities are provided in campus. Well-equipped gym center as well as a swimming pool are available in campus
+Security: Security is provided round the clock for all the blocks. Also all the blocks are fenced.
+Health Care: A dispensary with two beds, a doctor and a trained nurse are available on the campus. The nurse lives on the campus for round the clock medical care. Hostel office maintains first aid kit and is accessible round the clock. An ambulance van for emergency is stationed in the hostel premises.
+Washing Arrangements: One each Laundromat facility is provided for gents and ladies hostel blocks separately. The service provider who operates the facility is also giving an ironing facility.
+4. Governance:
+Day-to-day affairs of the hostels are managed by the Warden supported by the office staff.
+The hostels have well defined rules and regulations published in another link of these pages. The students are expected to be conversant with these rules and follow the same strictly.
+A Welfare Committee is constituted at the beginning of the academic year with the representatives from the students as well as the Management. The Committee meets once every month and makes suggestions for improving the quality of life in the hostel.
+Dean ( Student Welfare) will be invited for all meetings and reps of Maintenance Departments will be requested to attend on as required basis.
+
+# Circular:
+#hotel time regulation:
+1. MESS
+1.1 SCHEDULE
+1.1.1 The normal meal timings are as below. Students shall adhere to these timings strictly:
+Breakfast
+Working Days: 
+7:00 am to 8:20 am
+Holidays: 7:30 am to 9:00 am
+Lunch
+
+# Working Days: 
+I & IV Year: 11:00 am to 11:35 pm
+II & III Year: 12:05 pm to 12.40 pm
+Holidays: 12.30 pm to 2:00 pm.
+Snacks 3:15 pm to 4:15 pm ( all days)
+Dinner
+On all days: 
+Working days: 6:45 pm to 8:15 pm
+Days preceding holidays: 7:00 pm to 8:30pm
+The dining halls will be closed after the meal hours as above. 
+Changes, as required may be made periodically and the timings in force will be displayed in Notice 
+Boards.
+1.1.2 Only Vegetarian food will be served. No outside food is permitted to be brought inside the 
+Hostel / Campus
+Changes, as required may be made periodically and the timings in force will be displayed in Notice 
+Boards.
+1.1.2 Only Vegetarian food will be served. No outside food is permitted to be brought inside the 
+Hostel / Campus.
+11.3 The system of self service will be followed as far as possible in the mess. All students, after 
+finishing the meals, should leave their respective plates/glasses and in bins marked.
+1.1.4. Wearing of ‘Lungis’ or any night dress in the dining hall is not permitted
+1.2 CHARGES
+1.2.1 Once a student joins a mess, he/she shall be deemed to have become a permanent member of the 
+mess throughout the year.
+1.2.2 Establishment Charges and Messing Charges will be collected in advance, some time towards the 
+end of the academic year. Mess bill for every month will be calculated at specified rates (for contracted 
+catering). Extra Charges such as Extra / Guest charges etc will be separately kept track off and added. 
+The total mess bill amount will be deducted from the mess advance.. At the end of the year, the 
+remaining amount, if any, will be refunded / carried forward to the next year. 
+1.3 REDUCTION IN CHARGES
+1.3.1 Students who absent themselves on the date of reopening of the college after any semester 
+vacation will be deemed to have joined the mess on the reopening day itself and will be charged 
+accordingly.
+1.3.2 Absence from returning to the mess will be permitted only by the Warden on specific written 
+request for valid reasons, for a maximum period of ten days from the date of reopening of the College 
+and mess rebate permitted. Afterwards they will be charged. 
+1.3.3 Mess reduction is also admissible on the following grounds:
+a) Approved long holidays including Semester vacation periods, if any, declared by the College.
+b) Periods duly recommended by the Head of the Department and availed by the students for 
+purposes such as participation in sports, competitions, seminar education tours, etc.
+c) Periods availed by students for In-plant Training. 
+d) Periods of absence due to serious illness requiring hospitalization, subject to the production of 
+medical certificate, in genuine cases.
+1.3.4 Students who fall sick at the time of their stay in their native place during the period of approved 
+holidays and who require mess reduction for a further period should immediately intimate the same to 
+Warden or hostel office by Speed post / mail, the probable date of rejoining the mess. A medical 
+certificate from a Medical Officer not lower in rank than that of a Civil asst. Surgeon will need to be 
+submitted while reporting back in such cases. No mess reduction will be given, if advance intimation is 
+not provided.
+1.3.5 All application for mess reduction should be made in the form prescribed and it should be 
+submitted to the Warden / hostel office at least three days in advance. The number of days allowed 
+reduction will be on N-3 basis. An acknowledgement may be obtained from the Hostel office for 
+having obtained approval for mess reduction.
+1.3.6 Students will be entitled for mess reduction only for (N-3) days where N is the total number of 
+days approved absence from the mess excluding days of proceeding out and reporting back.
+1.3.7 Any absence of a student from the mess exceeding 24 hours should be intimated to Hostel Office 
+in the prescribed form so as to regulate the supply of provision even though the student is not eligible 
+for mess reduction.
+
+# Rules & Regulations
+Roles & Responsibility
+The Chief Warden shall be vested with power to, administer the hostels, interpret and enforce the rules and to regulate hostel admission / readmission.
+The Principal is the Ex -officio Chief Warden of the Hostel.
+The Administration reserves the right to change the rules or introduce new rules, from time to time as and when necessary.
+Allotment and Occupation of Rooms
+The Warden shall make allotment of rooms in consultations with the Chief Warden
+Every student and his/her parents, before he/she is admitted into the hostel, must give an undertaking in writing that he/she will abide by the rules of the hostel and he/she will submit to any disciplinary action imposed on him/her by the authorities
+The Administration may refuse admission to anyone without assigning any reason
+Being a resident in the hostel for any period does not confer on any student an automatic right to be membership for the next year or for any subsequent period
+Resident members may be shifted from one room to another by the Warden without assigning any reason
+No student is allowed to stay in the hostel without being a member of the mess
+Day Scholars are not permitted to be brought into or allowed inside the Hostel, except when specifically permitted
+Vacation and Handing Over
+At the end of the academic year, the rooms have to be vacated for general maintenance
+Before vacating the rooms, the students should fill up the Room Vacating Slip in triplicate. In addition to the furniture, the electrical installations including the fan should be handed over intact
+After a student vacates the room, he/she is not permitted to dine in the mess
+Care of Hostel Property
+The rooms and surrounding area should be kept clean and in a hygienic stat
+Hostel furniture shall not be removed from one room to another under any circumstance. Students are responsible for the care of furniture and fittings in their respective rooms
+In case of damage or loss of hostel property, the cost will be recovered from the students responsible for such damage or loss, if identified, or from all the students of the hostels, as decided by the Warden
+General
+Students are not permitted to enter the kitchen or storeroom of the mess on any account
+Students are not permitted to cook any food on their own accord in the mes
+Students on no account whatsoever will be permitted to take food outside the mess
+No food will be served in the room of the hostel for any student unless a certificate is produced from the College Medical Officer to the effect that the student’s condition requires the food to be served in their rooms
+Students shall not issue orders to hostel employees or interfere in their work. Cases of misconduct of hostel employees shall be reported to the Warden with full particulars
+Members are requested not to tip any employee of the hostel/mess
+Students are strictly prohibited from indulging in any kind of celebration in the hostel premises, unless organized centrally under special authorization
+Students are provided with washing machine facility on payment, charges will be as applicable and included in the mess bill
+Shop
+Shop Time : 4 P.M. to 6 P.M.
+Day Out & Weekend Stays
+Students will be permitted to go out of the campus only as authorized, after getting passes from Resident Tutors concerned or Warden as below
+Students may be permitted to go out with a “Gate Pass” for a day from 7 AM to 6.30 PM in case of Lady Students and up to 7.30 PM in case of Gents students, over Saturdays / Sundays / holidays / breaks. They must get passes approved at least by 6 PM on the previous day, in advance
+Students wanting to proceed and stay out of the hostel over weekends / holidays / will have to obtain permission from Resident Tutor / Warden by applying in a “Stay Pass” application, latest by lunch time on previous day, in advance. Marine Engineering students will have to obtain written permission from HOD/MR and Warden / Resident Tutor concerned. Such passes are normally valid from 3.30 PM on Friday/Saturday till 7 AM on Monday/Tuesday depending on the schedule of working days, unless specifically authorized for extended durations. Late coming shall be considered as indiscipline
+Students can avail gate/stay passes subject to a maximum of 5 days in a month as follows:
+a) Two stay passes of two days duration and one gate Passes
+b) One stay pass of two days and three gate Passes
+c) One stay pass of three days and two gate Passes
+d) Gate Passes
+
+However, passes may be restricted due to unsatisfactory progress in academics or indiscipline. Also, for part months particularly with less than 15 term days, the no of gate stay passes will be curtailed
+Students of third and final year UG classes and also all PG / MCA students, who are doing well in academics and also not involved in any act of indiscipline during their entire stay duration in the hostel, may be permitted to go out for attending outside courses for GRE, GMAT, CAT, GATE, foreign language or recognised Certification Programmes. Such courses / programmes should be over the weekends preferably and be of duration not beyond the end of the semester. Such Requests should be concurred by the Parents and HoDs of Departments, in a specific form issued for this purpose. These students may opt to stay outside the campus overnight at relatives’ residences (as concurred by the parents) or return to the College Hostel by 6.30 PM in case of lady students and 7.30 PM in case of gents students. These requests are to be submitted to Warden at least 3 days in advance
+After obtaining Gate / Stay Passes in the ‘Stay Pass Cards’, students are to leave these cards at the Main Gate when they are going out
+On return to College/Hostel, entries of time and date of return are to be made in presence of security and the Cards are to be left at the Hostel Security Gate. These Cards would be returned to RT by hostel office staff by the same evening.
+Registers maintained with the Security at the Hostel Gate and also at the Main Gate will have to be filled up with details of each arrival and departure on Passes.
+Students must possess their ID cards throughout their stay outside the campus and sport the same on their person while leaving and entering the campus.
+Students are to strictly adhere to the timings mentioned in the gate/stay pass. Action will be taken against the defaulters
+Parents and Guest Visits
+No guest is allowed to enter the hostel premises, without permission from Warden. However, no visitor’s vehicles are allowed inside the hostel compound
+Visiting parents or authorized local guardians may meet the students inside the hostel premises, including dining halls for brief periods. However, they are not permitted to enter the residential blocks. Such visits must be between 4 PM to 6 PM on working days or between 9 AM to 6 PM on holidays / week ends
+If Parents or authorized local guardians wish to spend extended durations in the campus, students may seek accommodation in the Guest House, an application for which must be made to Principal in advance and approval obtained. Charges will be applicable for all such stays
+Visitor’s vehicles may be permitted inside the hostel Gate only for a brief while for loading / unloading of heavy luggage
+No guest who is ill or who has come for medical treatment shall be brought into the hostel. No Day scholars are allowed as visitors
+Students are not permitted to bring / retain cars or two wheelers in the hostel campus, except under prior authorization for a limited period and specific purposes, as approved by Warden
+Personal Property
+Students are advised not to keep costly personal items such as jewellery etc
+Only with the written permission of the Warden students can keep and use low power Radios/Music systems in their rooms. Such equipment shall only be used during non study hours and that too without any disturbance to other inmates and without causing any damage to the electrical wiring systems. Any violation will be taken seriously and will be punishable with fine or expulsion from the hostel. Uses of TV sets/VCRs are strictly prohibited
+Personal Computers/laptops/any other personal electronic equipment can be used in rooms for academic/personal use as the case may be, that too only with prior permission and approved conditions from the Warden. Charges may be levied as decided by the Management. Any misuse will be severely dealt with
+The rooms should be locked whenever the students are away and the room keys should not be given to anyone else. If any student goes out of station on long medical / other leave, he/she must vacate the room
+The Hostel Management does not accept any liability for the property left in the rooms
+Only ordinary mobiles are permissible in the hostel and campus. These should be used discreetly and for personal use only
+Study and Silent Hours
+All hostel students must use the available time outside working hours gainfully for academic and self development purposes
+Students desirous of taking part in sports may proceed to the play fields after evening snacks but return by 6 pm latest
+Students may proceed out of the hostel to library / laboratory / temple till 9.30 PM only
+If anyone is found to be outside the hostel premises but in places other than as above even within campus, action may be taken against him or her
+All inmates must settle down in their rooms after dinner by 8.30 pm. They will observe study hours from 8.30 pm till 10.30 pm at least and also observe silent hours till 7 AM the next morning
+The inmates should be in their rooms during study hours without fail. During the study hours all must have their rooms open and are not to use mobiles. After study hours, all inmates may continue to study or go to sleep
+During study hours, attendance will be taken by Resident Tutors
+Representatives & Meetings
+Floor and Block Representatives will be elected at the commencement of every academic year
+Welfare Committee consisting of Warden, Dy. Wardens, Dean (Student Welfare), all RTs and all Block Representatives will be constituted every year
+Welfare Committee will meet at monthly intervals. All hostel related issues may be discussed with a view to find and recommend suitable solutions for approval and implementation
+A Mess Committee shall also be nominated from willing students. Mess menu will be decided based on recommendations of the Mess Committee
+Maintenance, Complaints and Suggetions
+Tampering of electrical installations is strictly prohibited. Any defect in the electrical installation should be reported to the maintenance section of the College, in writing at the specifically maintained defect books kept in the hostel gates
+Maintenance issues of waterline or carpentry or electrical nature are to be entered in corresponding defect registers kept at the hostel security gates
+Suggestions for improvement of hostel life can be voiced through respective student representatives or placed in the suggestion register kept in the dining hall
+Warden and Deputy Wardens may be approached for any matter connected with the hostel Block
+Conforming to Regulations
+Employing any person for personal work such as washing clothes, etc.., is not permitted. Members of the mess staff should not be asked to enter the rooms except in connection with the duties assigned to them
+Students may keep and use powered vehicles such as Motorcycles, Scooters, etc., inside the campus at their own risk, but only with prior permission from Warden as in clause 8.2.6; Helmet wearing is compulsory for driver and pillion rider, as and when permitted. Triple riding is forbidden
+Ragging in any form is strictly prohibited. Any such incident will be reported, investigated and those found guilty will be punished severely. Punishment may include expulsion from the hostel and from the College as per decisions taken by the Anti Ragging Committee and higher authorities
+Any student, who is found to be indulging in undesirable activities such as physical assault, damage to property, possession of weapons, bursting of fire crackers etc., will be liable to be summarily punished with any or a set of following type of punishments
+a) He/She will be expelled from the Hostel.
+b) A record of his/her misconduct will be made in the personal file.
+c) The cost of damage will be fully recovered from him/her together with penalty.
+d) He/She will be fined commensurate with the offence committed.
+e) The privilege of appearing for campus interviews may be denied.
+f) No recommendation will be given on him/her during balance period of studies in the College.
+
+Any student found hosting/ harboring an offender will be also liable to the punishments mentioned at para 13.4 above
+Students are strictly prohibited from pasting Photos/pictures/posters anywhere including in their rooms
+Ladies and Gents are strictly prohibited from entering each other's hostels, except when authorized for specific purposes
+Students should not hold any meeting or congregation inside the hostel or in campus without the permission of the Warden or Chief Warden
+The rooms are liable for inspection by the authorities at any time
+Members are not allowed to put up unauthorized notices or take out processions of any sort within the hostel area / college campus
+At all times, especially after 8.30 pm till next morning members shall not create any disturbance like shouting, making noise, etc
+Unauthorized screening of any film or video anywhere within the hostel premises is totally forbidden
+Smoking or possessing or consuming alcoholic drinks or narcotic substance of any type is strictly banned. Students found indulging in any such activity shall be severely dealt with
+Students found playing cards also shall be punished
+T.V timings are limited from 4 pm till 8. 15 pm. The T.V. hall will remain closed during CAT / University Examination periods
+All residents are advised to follow proper dress code whenever they are moving outside the hostel
+Students are advised not to loiter in the campus
+Students should not stay back in hostels during college working hours without permission from Medical officer or Resident Tutor
+Students should leave hostel premises well in advance to attend classes in time, but latest by 8.25 am. Hostel gates will be closed accordingly and late going noted for corrective action
+Establishment charges once paid will not be refunded unless the vacation is made for any exceptional reasons, specifically approved entirely at the discretion of the management
+Misconduct or breach of any of the rules of the hostel renders the offender liable to the denial of the mess facilities
+Resident Tutors are empowered to issue memos with fine, if students are found violating any hostel rules. Those who get three memos are liable to be expelled from the hostel
+Students with high number of arrears may be denied of hostel accommodation in the next academic year
+Medical Facilities
+The Dispensary is open from Monday to Saturday from 08.30 am to 4.30 p
+After College hours if a student falls sick he/she should inform the Resident Tutor of his block, who will contact the staff nurse or Doctor (who stay within college campus). If required, the patient will be referred to Jaya Hospital, Sriperumbudur
+In case of any emergency, the students will be referred to Jaya Hospital/ any other suitable nearby hospital. Jaya Hospital is well equipped and facilities are available round the clock. Proper medical record and also documentation may be kept personally with students so that whenever required for further treatment of the case, if need arises, same can be used
+After consultations, students who have availed treatment at Jaya Hospital / other hospital shall report to the Medical Officer of the College at the earliest opportunity, so that follow up can be done as needed
+Students proceeding on Medical Leave from the campus should produce the Medical Certificate issued by the college Medical Officer at the time of their leaving and shall get a medical fitness certificate from a Registered Medical practitioner, while returning
+In case of any such illness needing to go home for treatment, information on leaving the mess should be made available to the Hostel office and an application for mess reduction submitted within the next two to three days
+An ambulance service at nominal cost is available round the clock. Use of ambulance for movements of students to hospitals is on chargeable basis
+General
+These Rules are promulgated with the approval of Management and specific clauses may be amended as required from time to time, in order to continuously improve matters. Updated version will be maintained in the Hostel Office and same will be posted in the College Websit
+
+#Medical Centre
+Over view on Health centre
+The Medical centre of SVCE was instituted in the year 2008 with 6 beds, a resident Medical Officer, a trained residential nurse and a qualified lab technician. Besides that, the college has first aid kits made available in almost all blocks. A 24-hour ambulance facility, adequate pharmaceutical support, medical lab services are a few of the mentionable services offered.
+Health Care Facilities
+Health centre provides efficient and timely services to students, members of faculty, staff and contract workers. The centre, in addition to attending to the patients’, provides counselling to students and offers medical laboratory services.
+SVCE has signed an MOU with The Apollo SHINE Foundation, an initiative by Apollo Hospitals groups that focuses exclusively on students community.
+As part of the medical counselling activity and to monitor all the individuals’ well-being, a preliminary health check-up from Apollo Shine for all students and faculty and staff members is conducted at the beginning of every academic year. A thorough check-up includes ECG, ECHO, dental and eye examination besides the basic blood sugar and blood pressure tests. The institute further facilitates laboratory investigation of all necessary cases. The 24-hour ambulance facility is operated not only as a shuttle service in campus but also offers commutation services to nearby multi-speciality hospitals for further treatment in case of emergency and severe health issues. Exclusive facilities and services are also offered for the physically challenged individuals as well. Above all, the institution supports its faculty and staff by offering an unparalleled medical reimbursement facility.
+The Medical Centre of SVCE conducts awareness programmes every year through Apollo Shine Foundation in order to impart information on personal hygiene and survival/rescue techniques during emergency situations.
+The awareness programmes cover the following :
+First aid and BLS (Basic life supporting skills) training
+Awareness and prevention on sports injuries
+Awareness on women’s wellness
+Importance of nutritional diet
+Awareness on social habits
+Awareness on diabetic mellitus and hyper tension
+Awareness on oncology
+Counselling
+Besides all treatments offered for physiological conditions, the medical centre through a professional counsellor, provides a 24-hour service for the faculty, students and residential scholars. The Centre helps students to develop and improve their coping skills in order to deal with personal, emotional, interpersonal, and academic concerns and in the process provide a caring and supportive environment that encourages their personal growth and development.
+The Health Care Centre’s Staff Details :
+Dr. T. Vijay, MBBS- Medical officer
+Dr. Naseem Akthar - Counsellor
+Mrs. K. Chamundeeswari - Nurse
+Mr. V. Mohan - Lab technician
+#Campus Maintenance
+Maintenance Wing
+Mr. Rm Natarajan B.Sc., PGDBM
+[ Administrative Executive ]
+Civil
+The Estate Maintenance - CIVIL department has responsibility to maintain the campus spread over an extent of 94.38 acres.
+Staff members:
+B. Swaminathan B.E. (bswami) Estate Engineer - Grade-III ]
+R. Srinivasan - Estate Engineer Site (rsrinivasan@svce.ac.in)
+M. Sethumadhavan - Manager
+A. Manikandan - Supervisor - Civil (kandan@svce.ac.in)
+K.M. Sarathy - Assistant - Civil (sarathy@svce.ac.in)
+G. Lakshman - Carpenter
+S. Vijayraman - Maintenance Assistant
+S. Manuvel - Maintenance Assistant Grade I
+G. Venkatesan - Maintenance Assistant
+S. Balakrishnan - Driver Cum Attender
+Responsibilities:
+Building Maintenance - Administration , Academic, Hostel and Residential Quarters
+Road, Water Supply and Sewage.
+House Keeping
+Horticulture
+Electrical
+The Estate Maintenance - Electrical department has responsibility to maintain uninterrupted power supply in the campus spread over an extent of 94.38 acres.
+Staff members:
+M. Swaminathan - Assistant Engineer Grade II
+J. Anandan - E. Mechanic Grade III
+S. Selvaraj - E. Mechanic Grade II
+R. Thirunavukarasu - E. Mechanic Grade I
+R. Anandan - E. Mechanic Grade I
+M. Marimuthu - Mechanic Grade I
+N. Logesh - Mechanic
+
+# Information Management System (IMS)
+Information Management System Department is established to look after IT Infrastructure of the College Campus
+
+Developing, Modifying and Maintaining databases for various operations in the College
+
+Installation and Maintenance of new hardware and software for systems,servers,routers,hubs,priters etc.,
+
+Ensuring security of systems including back-up systems to operate effectively.
+
+Web portal development & content maintaining
+
+E-mail Server Maintenance
+
+# About Us
+The Information Management System department is responsible for provisioning, managing, and maintaining SVCE’s core technology infrastructure and services.   The department strives to manage and enhance enterprise infrastructure and services in support of the SVCE strategic, tactical, and operational goals.
+
+The  functional areas.
+
+Network
+Wired/Wireless Networks
+Internet (Staff & Students)
+E-mail
+Cabling
+Internet Leased Line Maintenance
+Wi-Fi
+Radius Server
+Switches & Routers
+V-LAN
+SSL VPN
+Data Center Services
+
+College Servers
+Data Backup
+Campus Management System(ERP)
+Web Service
+
+CCTV Maintenance
+
+Department of Information Management System to provide overall IT and project management support to the SVCE community.
+
+Staff
+Dr.G.Mathiyalagan, M.E.,Ph.D.
+HEAD-IMS, [ hodims@svce.ac.in ]
+
+Dr. S. Meenakshi Sundaram, Ph.D,
+Deputy HEAD-IMS [ sms@svce.ac.in ]
+
+Mr. S. Bojarajan B.Sc., M.Sc.
+Programmer GR 4 [bojarajan@svce.ac.in ]
+
+Mr. M. Bhoobalan B.Tech
+Programmer [bhoobalan@svce.ac.in ]
+
+Mr. P. Prakash B.Sc., Diploma
+System Analyst [pprakash@svce.ac.in ]
+
+Services Offered
+Campus Network & Control Services
+Wired Networks
+Wired (Ethernet) Networks is widely available across campus, in faculty and staff offices, departments and centers and classrooms. The service is available to Students, Faculty, Researchers and Staff. Thousands of readily-available network ports provide with high-speed access to the reliable, secure and high-speed wired network and the Internet.
+
+Wireless Networks
+Wireless access to campus network is available in the campus. The secure and encrypted network is convenient and widely available in college campus and hostels.
+
+Web portal maintenance
+The Web Design & Development Service Team is maintaining college web portal. SVCE has designed, developed and hosted the official web site of college(www.svce.ac.in). The team works closely with all departments.
+
+Intranet and CMS applications
+The Department is responsible for developing various intranet applications and maintaining college's student and staff data. The centalized information system consists of many utilities such as Attendance, CAT, Student Admission, Staff Profile, Students details etc.
+
+Internet Leased line and Firewall
+The Department is responsible maintaning the internet leased lines. We oversee 500 Mbps TATA and 30 Mbps BSNL internet leased lines. Also a firewall is installed to control the access of internet in the campus along with radius authendication server.
+
+Hardware Service
+When it comes to hardware services, it is proud to state that we hold the best position. We earned this brand value by consistently serving our college over the years with nothing else but the best. Our service standards are very high, and we deal with almost all types of computer hardware.
+
+CCTV
+The security camera is one of the wonders of modern technology, which is used at campus. It has gained immense popularity as an effective security measure, thanks to the plethora of benefits it offers.
+Contact
+Dr.G. Mathiyalagan,M.E.,Ph.D
+Head,IMS
+Department of Information Management System
+Sri Venkateswara College of Engineering, Pennalur,
+Irrungattukkottai Post,
+Sriperumbudur TK
+Telephone: (044) 27152000 (20 Lines) Ext: 190
+Email:hodims@svce.ac.in
+
+#Overview
+The Student Council stands as the foremost student body within SVCE, representing a vast community of over 4000 students. Under the dynamic leadership of Mr. SANJIV T S and the steadfast mentorship of Prof. Ganesh Vaidyanathan, the Student Council is at the forefront of pioneering a range of groundbreaking initiatives, each meticulously designed to empower numerous students. At its core, the vision of the Student Council is to guarantee that every individual who graduates from our college emerges as a triumphant and accomplished individual.
+
+Key Activities
+SVCE Tech Team - For the first time in SVCE history, a 25 member College level Tech Team has been created as a branch of the Student Council. The peer mentoring sessions for fourth year students and technical placement guidance for third year students are the most important projects of the Tech Team.
+
+Strong Student - Alumni Relations - The Alumni Association and Council have established very strong ties and thus conduct Networking Events, Spotlight Series, and other programs to mutually benefit each other.
+
+In charge of smooth conduct of college level events - Freshers Day, Ice breaker session for freshmen, Teachers Day, Sports Day, College Culturals and Student Research Day.
+
+
+Student Council - (2023 - 2024)
+MR. SANJIV T S, Final Year B.Tech. (IT)
+Students President
+Mobile : 9551449859
+Email : 2020it0535@svce.ac.in
+MR. MEER THAHIR A A, Final Year B.E. (ME)
+Vice President
+Mobile : 9962254904
+Email : 2020me0108@svce.ac.in
+MR. AADITTYA PRASSAD R, Final Year B.E (ECE)
+Cultural secretary
+Mobile : 8667780546
+Email : 2020ec0837@svce.ac.in
+MR. RAHUL M C, Third Year B.Tech. (IT)
+General Secretary
+Mobile : 8870820165
+Email : 2021it0814@svce.ac.in
+MS. RAAGA PRIYA J K, Third Year B.Tech. (ADS)
+Joint Secretary
+Mobile : 9003699981
+Email : 2021ad0725@svce.ac.in
+MS. BRINDHA S, Third Year B.E. (CSE)
+Sports Secretary
+Mobile : 7550122048
+Email : 2021cs0840@svce.ac.in
+MR. ARYAN SREERAM A, Second Year B.E. (MN)
+Treasurer
+Mobile : 9884349275
+Email : 2022mn0774@svce.ac.in
+MS. ABIRAMI K, Second Year M.Tech (BT)
+PG REPRESENTATIVE
+Mobile : 6382836260
+Email : 2022by0001@svce.ac.in
+Executive Committee:
+MR. JISSHNU H J, Final Year B.Tech. (IT)
+Member
+Mobile : 7358222304
+Email : 2020it0564@svce.ac.in
+MS. VARSHINI K R, Final Year B.Tech. (BT)
+Member
+Mobile : 9940642179
+Email : 2020bt0093@svce.ac.in
+Contact :
+Email : studentcouncil@svce.ac.in
+
+#campus life
+# students zone
+Image Source
+Red Ribbon Club
+Image Source
+Youth Red Cross
+Image Source
+Welding Research Cell
+Image Source
+Grievance Redressal Cell
+Image Source
+Industry-Institute Interaction CELL
+Image Source
+Tribology Research Cell
+Image Source
+Women Empowerment Cell
+Image Source
+CARE – Eco Club
+Image Source
+National Cadet Corps (NCC)
+Image Source
+National Service Scheme
+Image Source
+Entrepreneurship Promotion & Incubation Center
+Image Source
+Quality Management Center (QMC)
+Image Source
+Institution Innovation council (IIC SVCE Sriperumbudur)
+Image Source
+தமிழ் மன்றம்
+Image Source
+Centre for NATIONAL CYBER SAFETY AND SECURITY STANDARDS
+Image Source
+Engineers without border
+Image Source
+ISTE Chapter
+Image Source
+CSI-SVCE Students Chapter
+Image Source
+Interdisciplinary Nanotechnology Research Cell
+Image Source
+Music Club
+Image Source
+Photo Club
+Image Source
+Rotaract Club
+Image Source
+Automotive Research Cell
+Image Source
+IETE
+Image Source
+IEEE
+Image Source
+Sukalp SVCE
+Image Source
+SVCE Science Club
+Image Source
+Capacity and Skill Development Cell
+Image Source
+Speakers Forum
+Image Source
+Standards Club SVCE
+#GRIEVANCE REDRESSAL CELL (GRC):
+The function of the cell is to look into the complaints lodged by any student, and judge its merit. The Grievance cell is also empowered to look into matters of harassment. Anyone with a genuine grievance may approach the department members in person, or in consultation with the Students Council. In case the person is unwilling to appear in self, grievances may be dropped in writing at the letterbox/suggestion box of the Grievance Cell at Administrative Block.
+
+Objective:
+The objective of the Grievance Cell is to develop a responsive and accountable attitude among all the stakeholders in order to maintain a harmonious educational atmosphere in the institute. A Grievance Cell should be constituted for the Redressal of the problems reported by the Students of the College with the following objectives:
+
+Upholding the dignity of the College by ensuring strife free atmosphere in the College through promoting cordial Student-Student relationship and Student-Teacher relationship etc. 
+Encouraging the Students to express their grievances / problems freely and frankly, without any fear of being victimized. 
+Suggestion / complaint Box is installed in front of the Administrative Block in which the Students, who want to remain anonymous, put in writing their grievances and their suggestions for improving the Academics / Administration in the College. 
+Advising Students of the College to respect the right and dignity of one another and show utmost restraint and patience whenever any occasion of rift arises. 
+Advising all the Students to refrain from inciting Students against other Students, Teachers and College administration 
+Advising all staffs to be affectionate to the Students and not behave in a vindictive manner towards any of them for any reason. 
+Ragging in any form is strictly prohibited in and outside the institution. Any violation of ragging and disciplinary rules should be urgently brought to the notice of the Principal.
+MECHANISM FOR REDRESSAL OF GRIEVANCES OF STUDENTS and STAFF
+The students are the main stakeholders in any institution imparting education, and it is our endeavour to make all efforts to ensure transparency in all the activities at different stages. Taking this spirit in consideration the institute has decided to provide mechanism to students for Redressal of their grievances as under:
+
+The Grievances may broadly include the following complaints of the aggrieved students
+
+Academic 
+Non-Academic
+Grievance related to Assessment 
+Grievance related to Victimization 
+Grievance related to Attendance 
+Grievance related to charging of fees 
+Grievance regarding conducting of Examinations 
+Harassment by colleague students or the teachers etc.
+It is good to air a grievance rather than to keep it bottled up. Protection of human rights is essential for all round development of an individual’s personality. To realize the primary needs of the students and staff and secure civil liberties for everybody, a Grievance Redressal Cell has been constituted. The cell is indented to find solutions for problems like, (i) Sexual harassment - any kind of physical or mental harassment (ii) Complaints regarding class room teaching - class room management, completion of syllabus, teaching methods, etc., if and when they arise. The Grievance Redressal Cell convenes meetings periodically and takes steps to redress the grievance.
+There will be Grievance Redressal Committees at the Department / Institute / Central level to deal with the grievances of the students and staff.
+Department level Grievance Redressal Committee will be as under:
+Head of the Department - Chairman
+Up to 3 (three) faculties to be nominated by the Head of Department
+
+This committee will deal with the Grievance related to Academic and Administrative matters of the Department.
+
+Institute level Grievance Redressal Committee will be as under:
+Dean (Students’ Welfare) - Chairman
+Up to 5 (five) senior faculties to be appointed by the Head of Institute as members
+
+This committee will deal with all the Grievances directly which is related to the common problems at Institute level both Academic and Administrative. In addition, this committee will also entertain the appeal filed by the student against the decision of the Department level committee.
+
+Central Grievance Redressal Committee will be as under:
+1. Principal - Chairman
+
+2. Convenor - Dean (Students’ Welfare)
+
+3. Head of Department concerned
+
+4. Senior professor
+
+This committee will deal with all the Grievances directly which is related to the common problems at institute level both Academic and Administrative. In addition, this committee will also entertain the appeal filed by student against the decision of the Institute level comm
+Procedure for Redressal of Grievances
+An aggrieved student who has the Grievance or Grievances at the Department level shall make an application first to the HoD. The Head of Department after verifying the facts will try to redress the grievance within a reasonable time. If the student is not satisfied with the verdict or solution of the HoD, then the same should be placed before the Department level committee.
+If the student is not satisfied with the decision of Department committee, he/she can submit an appeal to the Institute level grievance committee within a week from the date of the receipt of the reply from the Department level committee.
+The convenor of Institute grievance committee, after verifying the facts and the papers concerned and having discussion within the Chairman of the Department committee will place the matter before the Institute level committee which shall either endorse the decision of the Department level committee or shall pass appropriate order in the best possible manner within a reasonable time.
+If the student is not satisfied with the Redressal offered by the Institute level committee and feels that his/her Grievance is not redressed, he/she can submit an appeal to the central grievance committee within a week from the date of receipt of decision with the relevant details.
+While dealing with the complaint the committee at all levels will observe law of natural justice and hear the complainant and concerned people.
+While passing an order on any Grievance at any level the relevant provisions of Act/Regulations should be kept in mind and no such order should be passed in contradiction of the same.
+The student will submit the application of Grievance or appeal to the Institute level committee or central grievance Redressal committee, as the case may be, through the Head of Department and Head of Institute concerned.
+Scope:
+
+The cell will deal with Grievances received in writing from the students about any of the following matters:-
+Academic Matters:
+Related to timely issue of duplicate Mark-sheets, Transfer Certificates, Conduct Certificates or other examination related matters.
+Financial matters:
+Related to dues and payments for various items from library, hostels
+Other Matters:
+Related to certain misgivings about conditions of sanitation, preparation of food, availability of transport, victimization by teachers etc.
+Functions:
+The cases will be attended promptly on receipt of written grievances from the students .
+The cell formally will review all cases and will act accordingly as per the Management policy.
+The cell will give report to the authority about the cases attended to and the number of pending cases, if any, which require direction and guidance from the higher authorities.
+Procedure for lodging complaint:
+The students may feel free to put up a grievance in writing/or in the format available in the admin dept. and drop it in boxes.
+The Grievance Cell will act upon those cases which have been forwarded along with the necessary documents.
+The Grievance Cell will assure that the grievance has been properly solved in a stipulated time limit provided by the cell.
+
+Responsibility for Redressal
+The final responsibility for grievance Redressal rests with the Principal of the college.
+The college expects that grievance Redressal be time bound and result oriented. Every grievance is expected to be resolved within a reasonable period.
+The grievance Redressal cell of the college shall monitor status and progress of grievance Redressal and shall furnish report on grievance Redressal position to the Principal.
+
+Powers:
+In case of any grievance the members of the cell are empowered to sort out the problems at their level through discussion with students.
+In case the members fail to find out any solution then the matter is referred to the Principal for final commitment on the matter.
+Considering the nature and depth of the grievances due inquiry is made by the members of the cell and through personal discussion the matter is solved. If anybody is found to be guilty for any kind of nuisance he or she is given punishment with due consideration with the Principal. The nature of punishment, information to the police (if situation arises for so) and expelling from the college are as per the rule of the institute.
+
+Exclusions:
+The grievance Redressal cell shall not entertain the following issues:
+
+Decisions of the Governing body, Academic council, Board of studies and other administrative or academic committees constituted by the University.
+Decisions with regard to award of scholarship, fee concessions, medals etc;
+Decisions made by the University with regard to disciplinary matters and misconduct.
+Decisions of the University about admissions in any courses offered by the institute.
+Decisions by competent authority on assessment and examination result.
+
+Composition:
+The cell is having the provision of being reconstituted every year if situation arises for so by the Principal himself along with suggestions sought from the in charge administrative body. Care has to be taken to select staff members from each stream.
+contracts:
+Dr. J VENKATESAN,
+Dean Students Welfare
+Email : deansw@svce.ac.in
+
+
+# ADMINISTRATION:
+Governing Council
+Image Source
+Dr. A.C. Muthiah
+
+Chairman Emeritus, SPIC Ltd.
+
+Chairman
+Image Source
+Prof. S. Ganesh Vaidyanathan
+
+Principal, SVCE
+
+Member Secretary
+Members
+Image Source
+Shri. Ashwin C. Muthiah
+Chairman, SPIC Ltd.
+Image Source
+Shri. Jawahar Vadivelu
+Chairman, Cameo Corporate Services Ltd.
+Shri. Y. P. Prasad
+Chairman, Sri Venkateswara Educational & Health Trust
+Shri. S. Rammohan
+Trustee, Sri Venkateswara Educational & Health Trust
+Prof. M. Sivanandham
+Secretary, SVEHT
+Shri. A. Muthukumar
+Treasurer, SVEHT
+Prof. N. Kumaravel
+Professor of Eminence, Dept. of ECE, Anna University
+Prof. M. S. Ananth
+Former Director, Indian Institute of Technology, Madras
+Dr. Subramani Ramakrishnan
+Vice President, UPS India Technology Center, Chennai, Tamil Nadu, India.
+Prof. V. Kamakoti
+Director, Indian Institute of Technology, Madras
+Dr. KR. Santha
+Professor and Head, Dept. of EEE, SVCE
+Prof. T. Murugavel
+Professor & Head, HSS Dept., SVCE
+Dr. K. Pitchandi
+COE and Professor, Dept. of Mechanical Engineering, SVCE
+Dr. S. Hosimin Thilagar
+Anna University Nominee, Professor, Department of Electrical and Electronics Engineering, CEG Campus, Anna University, Chennai – 600 025.
+Mr. K. Prabhakaran,
+State Government Nominee, Additional Director – Exams (FAC), Directorate of Technical Education, Chennai – 600 025.
+Executive Commitee
+Dr. M. Sivanandham, Ph.D
+Secretary
+Shri A. Muthukumar
+Treasurer
+Prof. S.Ganesh Vaidyanathan,Ph.D
+Principal
+Board of Trustees
+Shri. Y.P. Prasad
+Chairman
+Mr. L. Sudhakar Reddy
+Trustee
+Shri. S. Rammohan
+Trustee
+Shri. Ranjit Pratap
+Trustee
+Shri. M. Srinivasulu Reddy
+Trustee
+Dr. M. Sivanandham, Ph.D
+Secretary
+Shri. A. Muthukumar
+Treasurer
+Staff Council
+Staff Council Members as on 06/11/2023
+No.	Name	Designation
+1	Dr. S. Ganesh Vaidyanathan	Principal
+2	Dr. KR. Santha	Vice Principal & HoD/EEE
+3	Dr. K. Pitchandi	Controller of Examinations
+4	Dr. K.S. Badrinathan	Dean (Educational Development)
+5	Dr. R. Muthucumaraswamy	Dean (Research) & HoD/APM
+6	Dr. J. Venkatesan	Dean (Students' Welfare) & HoD/AUT
+7	Dr. R. Ramesh	Dean (Academics)
+8	Dr. S. Gopinath	Dean (IQAC)
+9	Dr. N. Meyyappan	HoD/CHE
+10	Dr. S. Ramesh Babu	HoD/MEC
+11	Dr. R. Anitha	HoD/CSE
+12	Dr. V. Vidhya	HoD/INT
+13	Dr. R. Kumutha	HoD/CVE
+14	Dr. E. Nakkeeran	HoD/BIO
+15	Mr. S. Shanmumugam	HoD/MAR
+16	Dr. G.A. Sathish Kumar	HoD/ECE
+17	Dr. T. Murugavel	HoD/HSS
+18	Dr. S. Stanly Samuel	HoD/ACH
+19	Dr. N.R.Sheela	HoD/APH
+20	Dr. A. Bhaskaran	Head-CSS and Warden(SVCE Hostel)
+21	Dr. G. Mathiyalagan	HoD/IMS
+22	Mr. S. Muraleedharan	Chief Placement Officer
+23	Dr. N.M. Balamurugan	Coordinator(Internal Assessment)
+24	Dr. S. Premnath	ISO M.Rep.
+25	Dr. M. Thirumalaikumar	Timetable Coordinator
+26	Mr. S. Selvaganapathy	Physical Education Director
+27	Dr. A. Gnanasekar	Chief Librarian
+
+Office of the Principal
+Prof.Dr.S Ganesh Vaidyanathan Ph.D
+Image Source
+Welcome Note
+Greetings!
+Welcome to SVCE!
+I thank you for your interest in SVCE. Since its inception in 1985, Sri Venkateswara College of Engineering has taken long strides and grown in stature and reputation in the province of engineering education. The College is in its 30th year. In these thirty years of the journey it has progressed a lot. It has gained the reputation of offering exceptional engineering education as proven by the scholarly accomplishment of its students. It has also made certain remarkable contributions to engineering education. A most significant accomplishment is conceiving and designing the syllabus for B.Tech – IT and B.E Marine and gaining the approval of University of Madras. Right through its history SVCE has enjoyed the patronage of parents and students and has had the first year seats filled up in the first two days of counseling. This, we believe, is because of the reputation the Institute has earned in the Industry in India and abroad primarily due to the exceptional performance of our alumni. All of our eligible students get placed in firms of repute. And several of them get dual offers, as well. Those who prefer to pursue higher studies get into great global universities.
+We are proud of our faculty and staff. They ensure that each and every student’s learning experience is rewarding and gratifying by complementing theoretical knowledge with practical training. This experience also kindles the curiosity of students and inspires them to involve themselves in our ongoing research projects and explore new fields as well. Research, thus, is an essential element of the educational experience at SVCE.
+Learning, at SVCE, has never been limited to the classroom, learners are exposed to a variety of activities – curricular and extra-curricular – that help them to hone their skills and develop rounded personality, receive a career-focused education and earn a name for themselves and for their alma mater.
+Know More+
+
+List of Staff Members
+No.	Name	Designation	Email
+1	VARADHARAJAN K	Consultant	varadhu@svce.ac.in
+2	VASUDEVAN N	Finance Executive	vasudevan@svce.ac.in
+3	VENKATESAN G	Senior Manager – HR	venkatesang@svce.ac.in
+4	MAGESWARAN A	Assistant - HR	mageswarana@svce.ac.in
+5	VENKATASUBRAMANIAN B	Academic Officer	venkat@svce.ac.in
+6	RAJENDRAN S	Senior Assistant	rajendran@svce.ac.in
+7	SURIYANARAYANAN V	Accountant	suriya@svce.ac.in
+8	NARAYANAN R	Superintendent	narayananr@svce.ac.in
+9	RAJENDRAN V	Accounts Assistant	vrajen@svce.ac.in
+10	PRAKASH R	Junior Assistant	prakash@svce.ac.in
+11	SATHYAPRAKASH N	Junior Assistant	nsathya@svce.ac.in
+12	ELANGOVAN M	Assistant Grade 3	melangovan@svce.ac.in
+13	KAMESHWARI P	Junior Associate	kameshwari@svce.ac.in
+14	RENISHA Y	Junior Associate	renisha@svce.ac.in
+15	KANCHANA J	Junior Assistant cum Receptionist	jkanchana@svce.ac.in
+16	KARTHIKEYAN V	Junior Assistant	karthikeyanv@svce.ac.in
+17	LOGANATHAN S	Assistant	loganathan@svce.ac.in
+18	PREMKUMAR V	Accountant	premkumarv@svce.ac.in
+19	MONISHA R	Account Assistant	monishar@svce.ac.in
+20	LOGESHWARI P	Account Assistant	logeshwarip@svce.ac.in
+21	INDHUMATHI K	Account Assistant	indhumathik@svce.ac.in
+22	GAJENDIRAN S	Attender	gajendiran@svce.ac.in
+
+Trust Office
+No.	Name	Designation
+1	Dr. M. Sivanandham, Ph.D	Secretary
+2	Mr. A. Muthukumar	Treasurer
+3	Mr. V. Srinivasamurthy	Manager
+4	Mr. D. Ravichandran	Assistant
+5	Mr. G. Venkatramana	Assistant
+6	Mr. E. Sundaravadivelu	Driver
+
+
+Sri Venkateswara Educational and Health Trust
+No.1/3A, River View Road
+Kotturpuram
+Chennai 600 085
+STD Code 044 Phones 2447 0688, 2447 0689
+Fax 2447 0690
+
+# About SVCE
+SVCE is a unit of Sri Venkateswara Educational and Health Trust (SVEHT). The Trust was founded on 1 August 1985 at the behest and benign blessings of His Holiness Pujashree Kanchi Kamakoti Peedathipathi Sri Jayendra Saraswathi Swamigal. Dr. A. C. Muthiah, a renowned engineer, industrialist and philanthropist, is the Chairman of the Governing Council of the college. The college is in a 95 acre lush green Campus. It is housed in architecturally exquisite buildings with ample infrastructure such as classrooms, laboratories, libraries, sports arena, canteen, hostels, dispensary, bank etc.,
+
+Mission
+To develop SVCE as a "CENTRE OF EXCELLENCE" offering Engineering Education to men and women at undergraduate and postgraduate degree levels, bringing out their total personality, emphasising ethical values and preparing them to meet the growing challenges of the industry and diverse societal needs of our nation.
+
+Image Source
+
+Vision
+
+To be a leader in Higher Technical Education and Research by providing the state of the art facilities to transform the learners into global contributors and achievers.
+
+Chairman of Top Engineering College
+Message from chairman
+Perhaps, you may be our prospective student, parent of a student, educationist, researcher or a citizen of the world. I hope that this site will provide all the College information that you are looking for.Well, the College started with a humble beginning, thirty-two years ago, with just three undergraduate programmes and has gradually grown up into a mammoth institution with ten undergraduate programmes, ten postgraduate programmes and eleven research programmes. The members of the faculty and the facilities in the College are superb.
+
+The Vision of the College is to develop the institution into a “CENTRE OF EXCELLENCE” by offering quality engineering education and research.
+In our College, students not only earn their degrees in various disciplines but also learn to acquire total personality, emphasize ethical values and prepare themselves to meet the growing challenges of the industry and diverse societal needs of our nation.
+
+Dr. A. C. Muthiah, Chairman, Governing Council, SVCE
+Quality Policy
+To impart quality education in Science, Engineering and Technology, nurturing right attitudes towards scholarship, research and entrepreneurship, enabling students to meet the challenges of industry, including Standards of Training, Certification and Watch keeping (STCW) requirements, society and environment.
+
+Achieved by
+
+1. Providing excellent infrastructure and conducive learning environment.
+2. Building a harmonious working culture and motivating every member to bring out the best in them.
+3. Inculcating ethical values, environmental awareness and developing professional competence and soft skills in every student.
+4. Encouraging faculty and students to engage in research activities.
+5. Committing to comply with relevant statutory requirements and continuously improving effectiveness of Quality Management System.
+6. Associating with leading industries and institutions.
+7. Responding promptly to changes in Technology.
+
+
+# CONTACT :
+
+044-2447 0688,044-2447 0689
+
+Dr. N. R. Sheela - 9840861987
+
+Mrs. Kameshwari - 7845637195
+
+Email: admissionenquiry@svce.ac.in
+
+
+ssl_certificate
+Contact Us
+CAMPUS ADDRESS
+Sri Venkateswara College of Engineering
+Post Bag No.1
+Pennalur Village
+Chennai - Bengaluru Highways
+Sriperumbudur (off Chennai) Tk. - 602 117
+Tamil Nadu, India
+TRUST OFFICE ADDRESS:
+Sri Venkateswara Educational and Health Trust
+Address: 1/3A River View Road,
+Sector 3, Kotturpuram,
+Chennai, Tamil Nadu 600085
+acm@svce.ac.in
+principal@svce.ac.in
+enquiry@svce.ac.in
++91-44-27152000
+
+
