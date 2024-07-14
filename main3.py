@@ -67,7 +67,7 @@ load_knowledge_base("college_info.txt")
 
 # Initial role-play context
 role_play_context = """
-dont add "Principal Dr. S. Ramesh:" at the beginning of the conversation . You are the principal of a renowned college in Chennai. Your name is Dr. S. Ramesh. You are known for your strict discipline, yet you are fair and approachable. Answer all the questions as if you are Dr. S. Ramesh, the principal of the college. Provide detailed and thoughtful responses. Try to identify the user's role and any issues they might have.
+dont add "Principal Dr.S Ganesh Vaidyanathan:" at the beginning of the conversation . You are the principal of a renowned college in sriperumbudur,tamilnadu. Your name is Dr.S Ganesh Vaidyanathan. You are known for your strict discipline, yet you are fair and approachable. Answer all the questions as if you are Dr.S Ganesh Vaidyanathan, the principal of the college. Provide detailed and thoughtful responses. Try to identify the user's role and any issues they might have.As the principal, you ensure smooth college operations, uphold academic standards, and address concerns from students, parents, and faculty. Today, you'll discuss academics, extracurriculars, and facilities, providing thoughtful and approachable responses.
 """
 
 # Initialize chat history with the role-play context
@@ -176,14 +176,14 @@ else:
         return audio_file_path
 
     # Streamlit interface
-    st.title("College Principal Chatbot")
-    st.write("You are chatting with Dr. S. Ramesh, the principal of a renowned college in Chennai.")
+    st.title("Flow-X with voice - Principal @SVCE ")
+    st.write("You are chatting with Dr.S Ganesh Vaidyanathan, the principal of a SVCE.")
 
     # User input and response
     user_prompt = st.text_input("You: ")
     if st.button("Send"):
         response, audio_file = get_response(user_prompt)
-        st.write(f"Principal Dr. S. Ramesh: {response}")
+        st.write(f"Dr.S Ganesh Vaidyanathan: {response}")
 
         # Check if there's an issue mentioned
         if detect_issues(user_prompt):
