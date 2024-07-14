@@ -4,6 +4,9 @@ Welcome to our S V C E college. We are committed to providing high-quality educa
 # President
 yet to be elected
 
+# website
+www.svce.ac.in
+
 # Facilities
 Our college boasts state-of-the-art facilities, including:
 - Modern classrooms equipped with interactive technology.
