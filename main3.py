@@ -82,7 +82,7 @@ if "issue_detected" not in st.session_state:
     st.session_state.issue_detected = False
 
 # Secret keys for authentication
-secret_keys = {"sri", "rohit", "key3"}  # Replace with your actual secret keys
+secret_keys = {"amma", "rohit", "key3"}  # Replace with your actual secret keys
 
 # Check if the user is authenticated
 if "authenticated" not in st.session_state:
