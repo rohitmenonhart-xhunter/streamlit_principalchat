@@ -5,6 +5,7 @@ from gradio_client import Client
 from pyht import Client as PlayHTClient, TTSOptions, Format
 import wave
 import io
+import json
 
 # Initialize Gradio Client
 client = Client("osanseviero/mistral-super-fast")
@@ -24,7 +25,10 @@ options = TTSOptions(
 def initialize_firebase():
     try:
         # Retrieve Firebase service account key from Streamlit secrets
-        service_account_key_dict = st.secrets["env"]["GOOGLE_APPLICATION_CREDENTIALS"]
+        service_account_key_str = st.secrets["env"]["GOOGLE_APPLICATION_CREDENTIALS"]
+        
+        # Parse the service account key string into a dictionary
+        service_account_key_dict = json.loads(service_account_key_str)
         
         # Initialize Firebase with the retrieved service account key
         cred = credentials.Certificate(service_account_key_dict)
