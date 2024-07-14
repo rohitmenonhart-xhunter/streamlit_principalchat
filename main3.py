@@ -98,7 +98,7 @@ def authenticate(key):
 
 # Login screen
 if not st.session_state.authenticated:
-    st.title("College Principal Chatbot Login")
+    st.title("Flow-X with voice")
     secret_key = st.text_input("Enter your secret key:", type="password")
     if st.button("Login"):
         authenticate(secret_key)
@@ -178,7 +178,7 @@ else:
 
     # Streamlit interface
     st.title("Flow-X with voice - Principal @SVCE ")
-    st.write("You are chatting with Dr.S Ganesh Vaidyanathan, the principal of a SVCE.")
+    st.write("You are chatting with Dr.S Ganesh Vaidyanathan, the principal of SVCE.")
 
     # User input and response
     user_prompt = st.text_input("You: ")
