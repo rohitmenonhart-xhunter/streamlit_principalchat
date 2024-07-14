@@ -127,7 +127,7 @@ else:
 
         # Extract the response and update the chat history
         response = result.strip()
-        st.session_state.chat_history += f"\n\nPrincipal Dr. S. Ramesh: {response}"
+        st.session_state.chat_history += f"\n\n{response}"
 
         # Read response aloud
         audio_file = read_aloud(response)
