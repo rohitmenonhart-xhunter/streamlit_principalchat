@@ -82,7 +82,7 @@ if "issue_detected" not in st.session_state:
     st.session_state.issue_detected = False
 
 # Secret keys for authentication
-secret_keys = {"amma", "rohit", "key3"}  # Replace with your actual secret keys
+# secret_keys = {"amma", "rohit", "key3"}  # Replace with your actual secret keys
 
 # Check if the user is authenticated
 if "authenticated" not in st.session_state:
@@ -90,9 +90,15 @@ if "authenticated" not in st.session_state:
 
 # Authentication function
 def authenticate(key):
-    if key in secret_keys:
+    if key == "v77":
         st.session_state.authenticated = True
         st.session_state.authenticated_key = key  # Store authenticated key
+    elif key.isdigit() and 7 <= len(key) <= 17:
+        if int(key[:2]) + int(key[-2:]) == 77:
+            st.session_state.authenticated = True
+            st.session_state.authenticated_key = key  # Store authenticated key
+        else:
+            st.error("Invalid secret key. Please try again.")
     else:
         st.error("Invalid secret key. Please try again.")
 
