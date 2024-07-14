@@ -113,7 +113,7 @@ else:
 
         # Combine the chat history and knowledge base for the model's prompt
         knowledge_text = "\n\n".join(knowledge_entries)
-        combined_prompt = f"{st.session_state.chat_history}\n\n{knowledge_text}\n\nPrincipal Dr. S. Ramesh:"
+        combined_prompt = f"{st.session_state.chat_history}\n\n{knowledge_text}\n\n:"
 
         # Get the model's response
         result = client.predict(
