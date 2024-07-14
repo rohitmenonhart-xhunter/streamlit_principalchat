@@ -135,6 +135,11 @@ else:
 
         # Extract the response and update the chat history
         response = result.strip()
+
+        # Check if the name is at the beginning and remove it if unnecessary
+        if response.startswith("Dr.S Ganesh Vaidyanathan:"):
+            response = response[len("Dr.S Ganesh Vaidyanathan:"):].strip()
+
         st.session_state.chat_history += f"\n\n{response}"
 
         # Read response aloud
@@ -190,7 +195,7 @@ else:
     user_prompt = st.text_input("You: ")
     if st.button("Send"):
         response, audio_file = get_response(user_prompt)
-        st.write(f" {response}")
+        st.write(f"{response}")
 
         # Check if there's an issue mentioned
         if detect_issues(user_prompt):
