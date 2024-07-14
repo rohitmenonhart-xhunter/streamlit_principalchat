@@ -24,8 +24,10 @@ options = TTSOptions(
 def initialize_firebase():
     try:
         # Retrieve Firebase service account key from Streamlit secrets
-        service_account_key_json = st.secrets["env"]["GOOGLE_APPLICATION_CREDENTIALS"]
-        cred = credentials.Certificate.from_dict(service_account_key_json)
+        service_account_key_dict = st.secrets["env"]["GOOGLE_APPLICATION_CREDENTIALS"]
+        
+        # Initialize Firebase with the retrieved service account key
+        cred = credentials.Certificate(service_account_key_dict)
         firebase_admin.initialize_app(cred, {
             'databaseURL': 'https://principal-chat27-default-rtdb.firebaseio.com'
         })
