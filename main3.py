@@ -9,14 +9,14 @@ import json
 
 
 # Initialize Gradio Client
-client = Client("rohitmenonhart/mistral-super-fast-v2")
+client = Client("osanseviero/mistral-super-fast")
 
 # Initialize PlayHT API with your credentials
-playht_client = PlayHTClient("ez4YS811koYwL27q0iNSZ3YynQI3", "eb4f76c9822449afbda94f190445e18e")
+playht_client = PlayHTClient("dxofM56xXsPpujTgAGiUDdKlRaG2", "198becae751440b782187e6cc5392647")
 
 # Configure your stream options
 options = TTSOptions(
-    voice="s3://voice-cloning-zero-shot/72e6e88a-bf6a-4177-bacb-a13609a32d61/original/manifest.json",
+    voice="s3://voice-cloning-zero-shot/2992d738-6735-40bc-82f0-6534b5eeb9e4/original/manifest.json",
     sample_rate=44100,
     format=Format.FORMAT_WAV,
     speed=0.9,
